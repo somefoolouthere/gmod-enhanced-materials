@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$baseTexture MaxOfS2D/models/button_06
+$bumpmap null-bumpmap
+$phong 1
+$phongexponent 15
+$phongboost 1
+$phongfresnelranges "[.6 .8 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 15
+$phongtint "[.6 .6 .6]"
+$BasemapAlphaPhongMask 1
+$phongdisablehalflambert 1
+}

@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+$basetexture phoenix_storms/pack2/glass
+$translucent 1
+$nocull 1
+$surfaceprop metal
+$envmap env_cubemap
+$envmaptint "[1 1 1]"
+$model 1
+$halflambert 1
+}

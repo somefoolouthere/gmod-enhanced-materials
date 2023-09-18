@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$basetexture phoenix_storms/thruster
+$surfaceprop metal
+$envmap env_cubemap
+$envmaptint "[.04 .04 .04]"
+$envmapfresnel 1
+$model 1
+$bumpmap null-bumpmap
+$phong 1
+$phongboost .04
+$phongexponent 200
+$phongfresnelranges "[.04 .52 1]"
+$phongdisablehalflambert 1
+}

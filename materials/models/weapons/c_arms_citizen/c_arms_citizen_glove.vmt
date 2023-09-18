@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$basetexture models/weapons/c_arms_combine/c_arms_combinesoldier_hands
+$bumpmap	models/weapons/c_arms_combine/c_arms_combinesoldier_hands_normal
+$color2	"[.9 .9 .9]"
+$phong	1
+$phongboost 1
+$phongexponent 5
+$phongfresnelranges	"[.6 .8 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 5
+$phongtint "[.6 .6 .6]"
+$phongdisablehalflambert 1
+}

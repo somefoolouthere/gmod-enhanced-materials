@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$baseTexture	gmod/edit_sky
+$bumpmap	null-bumpmap
+$model	1
+$phong	1
+$phongexponent	20
+$phongboost	1
+$phongfresnelranges	"[.5 .75 1]"
+$rimlight	1
+$rimlightboost	1
+$rimlightexponent 20
+$phongtint "[.5 .5 .5]"
+$phongdisablehalflambert 1
+}

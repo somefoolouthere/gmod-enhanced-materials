@@ -1,0 +1,33 @@
+vertexlitgeneric
+{
+$basetexture models/alyx/plyr_sheet
+$bumpmap models/alyx/alyx_sheet_normal
+$model	1
+$phong	1
+$phongexponenttexture models/Alyx/alyx_sheet_exponent
+$phongboost	1
+$phongfresnelranges	"[.3 .65 1]"
+$rimlight 1
+$rimlightexponent 8
+$rimlightboost 1
+$rimmask 1
+$phongtint "[.3 .3 .3]"
+$blendtintbybasealpha 1
+$blendtintcoloroverbase 0
+$phongdisablehalflambert 1
+Proxies
+{
+PlayerColor
+{
+resultVar	$color2
+default	.23 .35 .41
+}
+Clamp
+{
+min .01
+max 1.25
+srcVar1 $color2
+resultVar $color2
+}
+}
+}

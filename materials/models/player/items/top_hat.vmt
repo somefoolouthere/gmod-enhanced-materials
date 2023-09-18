@@ -1,0 +1,24 @@
+VertexLitGeneric
+{
+$baseTexture models/player/items/top_hat
+$bumpmap models/player/items/top_hat_normal
+$phong	1
+$phongexponent 5
+$phongboost 1
+$phongfresnelranges	"[.2 .6 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 5
+$phongtint "[.2 .2 .2]"
+$blendtintbybasealpha 1
+$blendtintcoloroverbase .1
+$phongdisablehalflambert 1
+Proxies
+{
+PlayerColor
+{
+resultVar	$color2
+default	.1 .1 .1
+}
+}
+}

@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+$basetexture models/weapons/c_arms_combine/c_arms_combinesoldier
+$bumpmap	models/weapons/c_arms_combine/c_arms_combinesoldier_normal
+$phong	1
+$phongboost 1
+$phongexponent 5
+$phongfresnelranges	"[.3 .65 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 5
+$phongtint "[.3 .3 .3]"
+$detail detail/plaster_detail_01
+$detailscale 7.65
+$detailblendfactor .6
+$detailblendmode 0
+$phongdisablehalflambert 1
+}

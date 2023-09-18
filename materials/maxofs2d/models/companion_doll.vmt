@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$baseTexture MaxOfS2D/models/companion_doll
+$bumpmap MaxOfS2D/models/companion_doll_normal
+$blendtintbybasealpha 1
+$blendtintcoloroverbase .05
+$phong 1
+$phongexponent 12
+$phongboost 1
+$phongfresnelranges "[.2 .6 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 12
+$phongtint "[.2 .2 .2]"
+$phongdisablehalflambert 1
+}

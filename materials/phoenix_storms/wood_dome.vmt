@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+$basetexture phoenix_storms/wood_dome
+$surfaceprop wood
+$bumpmap phoenix_storms/wood_dome_bump
+$envmap env_cubemap
+$normalmapalphaenvmapmask 1
+$envmaptint "[.1 .1 .1]"
+$envmapfresnel 1
+$model	1
+$phong	1
+$phongboost 2.56
+$phongexponent 256
+$phongfresnelranges "[.1 .55 1]"
+$phongtint "[.1 .1 .1]"
+$phongdisablehalflambert 1
+}

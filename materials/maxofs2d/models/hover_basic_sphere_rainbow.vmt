@@ -1,0 +1,1 @@
+VertexLitGeneric { $baseTexture MaxOfS2D/models/hover_basic_rainbow $bumpmap null-bumpmap $translucent 1 $phong 1 $phongboost 1 $phongexponent 1 $phongfresnelranges "[.01 .505 1]" $rimlight 1 $rimlightboost 1 $rimlightexponent 1 $phongtint "[.01 .01 .01]" $nocull 1 }

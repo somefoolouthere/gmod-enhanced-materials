@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$baseTexture MaxOfS2D/models/balloon_classic_01
+$bumpmap null-bumpmap
+$phong 1
+$phongexponent 40
+$phongboost 1
+$phongfresnelranges "[.5 .75 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 40
+$phongtint "[.5 .5 .5]"
+$envmap env_cubemap
+$envmaptint "[.05 .05 .05]"
+$phongdisablehalflambert 1
+}

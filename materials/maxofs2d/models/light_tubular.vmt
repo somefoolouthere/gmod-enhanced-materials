@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+$baseTexture MaxOfS2D/models/light_tubular
+$bumpmap null-bumpmap
+$phong 1
+$phongexponent 10
+$phongboost 1
+$phongfresnelranges "[.6 .8 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 10
+$phongtint "[.6 .6 .6]"
+$basemapalphaphongmask 0
+$blendtintbybasealpha 1
+$blendtintcoloroverbase 0
+$phongdisablehalflambert 1
+}

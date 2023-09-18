@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$model 1
+$basetexture Straw/StrawTile_diffuse
+$surfaceprop grass
+$bumpmap Straw/StrawTile_normal
+$phong 1
+$phongexponent 40
+$phongboost 1
+$phongfresnelranges "[.7 .85 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 40
+$phongtint "[.7 .7 .7]"
+$phongdisablehalflambert 1
+}

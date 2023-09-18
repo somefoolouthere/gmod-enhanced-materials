@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$basetexture phoenix_storms/indentTiles_1-2
+$surfaceprop metal
+$bumpmap phoenix_storms/indentTiles_bump
+$envmap env_cubemap
+$envmaptint "[.349 .349 .349]"
+$envmapfresnel 1
+$model	1
+$phong	1
+$phongboost 2.56
+$phongexponent 256
+$phongfresnelranges "[.349 .675 1]"
+$phongtint "[.349 .349 .349]"
+$phongdisablehalflambert 1
+}

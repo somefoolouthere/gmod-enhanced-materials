@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+$basetexture models/Weapons/w_slam/wslam
+$envmap env_cubemap
+$envmaptint "[.09 .09 .09]"
+$phong	1
+$phongboost .3
+$phongexponent 256
+$phongfresnelranges "[.3 .65 1]"
+$phongdisablehalflambert 1
+}

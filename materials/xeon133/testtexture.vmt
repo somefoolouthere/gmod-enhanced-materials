@@ -1,0 +1,1 @@
+VertexLitGeneric { $baseTexture xeon133/testtexture $surfaceprop metal $bumpmap null-bumpmap $phong 1 $halflambert 0 $phongexponent 150 $phongboost 1 $phongfresnelranges "[1 1 1]" $rimlight 1 $rimlightboost 1 $rimlightexponent 150 $phongtint "[1 1 1]" }

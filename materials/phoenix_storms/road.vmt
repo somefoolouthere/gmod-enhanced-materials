@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+$basetexture phoenix_storms/road
+$surfaceprop concrete
+$bumpmap phoenix_storms/concrete_bump
+$envmap env_cubemap
+$envmaptint "[.1 .1 .1]"
+$envmapfresnel 1
+$model 1
+$phong 1
+$phongboost 10
+$phongexponent 256
+$phongfresnelranges "[.1 .55 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 1
+$phongtint "[.01 .01 .01]"
+$phongdisablehalflambert 1
+}

@@ -1,0 +1,31 @@
+VertexLitGeneric
+{
+$baseTexture models/zombie_fast/fast_zombie_sheet
+$alphatest 1
+$bumpmap Models/zombie_fast_players/fast_zombie_sheet_normal
+$surfaceprop flesh
+$halflambert 0
+$phong	1
+$phongboost 1
+$phongexponent 8
+$phongtint "[.5 .5 .5]"
+$phongfresnelranges	"[.5 .75 1]"
+$rimlight 1
+$rimlightexponent 8
+$rimlightboost 1
+Proxies
+{
+PlayerColor
+{
+resultVar	$color2
+default	1 1 1
+}
+Clamp
+{
+min	.9
+max	1.1
+srcVar1 $color2
+resultVar $color2
+}
+}
+}

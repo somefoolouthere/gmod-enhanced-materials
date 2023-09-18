@@ -1,0 +1,30 @@
+VertexLitGeneric
+{
+$basetexture models/odessa/players_sheet
+$bumpmap models/odessa/players_sheet_normal
+$phong 1
+$phongboost 1
+$phongexponent 5
+$phongfresnelranges	"[.2 .6 1]"
+$rimlight 1
+$rimlightexponent 5
+$rimlightboost 1
+$rimmask 1
+$phongtint "[.2 .2 .2]"
+$phongdisablehalflambert 1
+Proxies
+{
+PlayerColor
+{
+resultVar	$color2
+default	.23 .35 .41
+}
+Clamp
+{
+min .01
+max 1.25
+srcVar1 $color2
+resultVar $color2
+}
+}
+}

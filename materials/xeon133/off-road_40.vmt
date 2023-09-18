@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$baseTexture xeon133/Off-road_40
+$bumpmap xeon133/Off-road_40_normal
+$surfaceprop rubbertire
+$phong 1
+$phongexponent 150
+$phongboost 1
+$phongfresnelranges "[1 1 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 150
+$phongtint "[1 1 1]"
+$phongdisablehalflambert 1
+}

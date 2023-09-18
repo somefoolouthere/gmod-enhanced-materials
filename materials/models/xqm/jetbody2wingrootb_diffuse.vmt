@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$basetexture models/XQM/JetBody2WingRootB_diffuse
+$surfaceprop metal
+$bumpmap models/XQM/JetBody2WingRootB_normal
+$phong 1
+$phongexponent 40
+$phongboost 1
+$phongfresnelranges "[.6 .8 1]"
+$model 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 40
+$phongtint "[.6 .6 .6]"
+$phongdisablehalflambert 1
+}

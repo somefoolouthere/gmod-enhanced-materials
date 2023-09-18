@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$basetexture models/XQM/HydControlBox
+$surfaceprop metal
+$bumpmap models/XQM/HydControlBox_normal
+$model 1
+$phong 1
+$phongexponent 30
+$phongboost 1
+$phongfresnelranges "[.7 .85 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 30
+$phongtint "[.7 .7 .7]"
+$phongdisablehalflambert 1
+}

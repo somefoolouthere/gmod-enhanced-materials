@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$baseTexture models/Zombie_Classic/Zombie_Classic_sheet
+	$bumpmap Models/zombie_classic/zombie_classic_sheet_normal
+	$model 1
+	$phong 1
+	$phongboost 1
+	$halflambert 0
+	$phongalbedotint 1
+	$phongfresnelranges	"[.7 .85 1]"
+	$phongexponent 20	
+	$rimlight 1
+	$rimlightexponent 20
+	$rimlightboost 1
+	$phongtint "[.7 .7 .7]"
+}

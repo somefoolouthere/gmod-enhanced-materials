@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+$alphatest 1
+$basetexture phoenix_storms/metalfence004a
+%compilepassbullets 1
+$surfaceprop chainlink
+%compileladder 1
+$bumpmap null-bumpmap
+$phong 1
+$phongboost 1
+$phongexponent 10
+$phongfresnelranges "[.1 .55 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 11
+$phongtint "[.1 .1 .1]"
+$phongdisablehalflambert 1
+}

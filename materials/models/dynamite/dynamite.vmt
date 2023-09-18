@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$basetexture models\dynamite\dynamite
+$bumpmap models\dynamite\dynamite_normal
+$envmap env_cubemap
+$phong 1
+$phongexponent 50
+$phongboost 1
+$phongfresnelranges "[.5 .75 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 30
+$phongtint "[.5 .5 .5]"
+$envmaptint "[.02 .02 .02]"
+$phongdisablehalflambert 1
+}

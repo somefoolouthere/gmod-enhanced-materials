@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+$baseTexture	models/balloon/balloon_eye
+$envmap	env_cubemap
+$envmaptint	"[.01 .01 .01]"
+$halflambert 0
+$phong 1 
+$phongboost 1 
+$phongfresnelranges "[1 1 1]"
+$phongexponent 100
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 100
+$phongtint "[1 1 1]"
+$bumpmap null-bumpmap
+$model 1
+}

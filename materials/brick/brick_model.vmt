@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+$basetexture Brick/brickwall003a
+$bumpmap brick/brickwall003a_normal
+$detail detail/noise_detail_01
+$detailscale 5
+$detailblendfactor .8
+$detailblendmode 0
+$model 1
+$phong 1
+$phongboost 1
+$phongexponent 2
+$phongfresnelranges "[.02 .51 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 2
+$phongtint "[.02 .02 .02]"
+$phongdisablehalflambert 1
+}

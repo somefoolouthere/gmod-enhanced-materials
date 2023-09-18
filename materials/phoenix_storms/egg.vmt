@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$basetexture phoenix_storms/egg
+$surfaceprop plastic
+$bumpmap phoenix_storms/egg_bump
+$model 1
+$phong 1
+$phongboost 1
+$phongexponent 4
+$phongfresnelranges "[.1 .55 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 4
+$phongtint "[.1 .1 .1]"
+$phongdisablehalflambert 1
+}

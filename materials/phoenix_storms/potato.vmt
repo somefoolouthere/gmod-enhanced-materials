@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$baseTexture phoenix_storms/potato
+$surfaceprop dirt
+$bumpmap null-bumpmap
+$phong 1
+$phongboost 1
+$phongexponent 10
+$phongfresnelranges "[.1 .55 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 10
+$phongtint "[.1 .1 .1]"
+$phongdisablehalflambert 1
+}

@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+$basetexture models/weapons/c_arms_citizen/c_arms_citizen_infected_hands
+$bumpmap	models/weapons/c_arms_citizen/c_arms_citizen_infected_hands_normal
+$phong	1
+$phongboost 1
+$phongexponent 8
+$phongfresnelranges	"[.4 .7 1]"
+$phongtint "[.4 .4 .4]"
+$detail	models/weapons/c_arms_citizen/skin_detail
+$detailscale	6
+$detailblendfactor	.6
+$detailblendmode	0
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 8
+$phongdisablehalflambert 1
+}

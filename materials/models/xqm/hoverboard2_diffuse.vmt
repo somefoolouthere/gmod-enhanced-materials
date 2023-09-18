@@ -1,0 +1,25 @@
+VertexLitGeneric
+{
+$basetexture models/XQM/Hoverboard2_diffuse
+$surfaceprop metal
+$bumpmap models/XQM/Hoverboard_normal
+$phong 1
+$phongexponent 40
+$phongboost 1
+$phongfresnelranges "[.6 .8 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 40
+$phongtint "[.6 .6 .6]"
+$phongdisablehalflambert 1
+Proxies
+{
+AnimatedTexture
+{
+animatedtexturevar $basetexture
+animatedtextureframenumvar $frame
+animatedtextureframerate 10
+}
+}
+$model 1
+}

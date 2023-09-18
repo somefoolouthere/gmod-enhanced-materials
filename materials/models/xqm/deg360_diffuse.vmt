@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$basetexture models/XQM/Deg360_diffuse
+$surfaceprop metal
+$bumpmap models/XQM/Deg360_normal
+$model 1
+$phong 1
+$phongexponent 40
+$phongboost 1
+$phongfresnelranges "[.7 .85 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 40
+$phongtint "[.7 .7 .7]"
+$phongdisablehalflambert 1
+}

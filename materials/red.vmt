@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$baseTexture red
+$surfaceprop solidmetal
+$bumpmap	null-bumpmap
+$phong	1
+$phongexponent 150
+$phongboost 1
+$phongfresnelranges "[.5 .75 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 1
+$phongtint "[.5 .5 .5]"
+$phongdisablehalflambert 1
+}

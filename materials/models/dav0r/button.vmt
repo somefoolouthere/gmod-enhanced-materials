@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+$baseTexture models\dav0r/button
+$phong	1
+$phongboost 1
+$phongfresnelranges "[.5 .75 1]"
+$phongexponent 10
+$bumpmap null-bumpmap
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 10
+$phongtint "[.5 .5 .5]"
+$phongdisablehalflambert 1
+}

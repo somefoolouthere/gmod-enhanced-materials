@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$basetexture models/XQM/ModernChair_diffuse
+$surfaceprop metal
+$bumpmap models/XQM/ModernChair_normal
+$phong 1
+$phongexponent 40
+$phongboost 1
+$phongfresnelranges "[.4 .7 1]"
+$model 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 1
+$phongtint "[.4 .4 .4]"
+$phongdisablehalflambert 1
+}

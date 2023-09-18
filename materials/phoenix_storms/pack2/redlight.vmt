@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$basetexture phoenix_storms/pack2/redlight
+$surfaceprop metal
+$envmap env_cubemap
+$envmaptint "[.2 .2 .2]"
+$envmapfresnel 1
+$selfillum .5
+$model 1
+$bumpmap null-bumpmap
+$phong 1
+$phongboost .2
+$phongexponent 256
+$phongfresnelranges "[.2 .6 1]"
+$phongdisablehalflambert 1
+}

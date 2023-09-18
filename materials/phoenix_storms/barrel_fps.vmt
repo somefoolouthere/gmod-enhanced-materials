@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+$basetexture phoenix_storms/barrel_fps
+$surfaceprop metal
+$bumpmap phoenix_storms/barrel_bump
+$envmap env_cubemap
+$normalmapalphaenvmapmask 1
+$envmaptint "[.1 .1 .1]"
+$phong	1
+$phongexponent 20
+$phongboost 1
+$phongfresnelranges "[1 1 1]"
+$model 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 20
+$phongtint "[1 1 1]"
+$phongdisablehalflambert 1
+}

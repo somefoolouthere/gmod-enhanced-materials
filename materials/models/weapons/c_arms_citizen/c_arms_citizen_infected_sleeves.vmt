@@ -1,0 +1,33 @@
+VertexLitGeneric
+{
+$basetexture models/weapons/c_arms_citizen/c_arms_citizen_infected_sleeves
+$bumpmap	models/weapons/c_arms_citizen/c_arms_citizen_infected_sleeves_normal
+$phong	1
+$phongboost 1
+$phongexponent 10
+$phongfresnelranges	"[.6 .8 1]"
+$phongtint "[.6 .6 .6]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 10
+$phongexponenttexture models/weapons/c_arms_citizen/c_arms_citizen_sleeves_normal
+$rimmask 1
+$blendtintbybasealpha 1
+$blendtintcoloroverbase 0
+$phongdisablehalflambert 1
+Proxies
+{
+PlayerColor
+{
+resultVar	$color2
+default	.2 .4 .7
+}
+Clamp
+{
+min	.01
+max	1.5
+srcVar1 $color2
+resultVar $color2
+}
+}
+}

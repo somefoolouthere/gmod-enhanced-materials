@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$basetexture phoenix_storms/smallwheel_side
+$surfaceprop metal
+$bumpmap phoenix_storms/smallwheel_side_bump
+$envmap env_cubemap
+$envmaptint "[.0225 .0225 .0225]"
+$model	1
+$phong	1
+$phongboost 2.56
+$phongexponent 256
+$phongfresnelranges "[.0225 .51125 1]"
+$envmapfresnel 1
+$phongtint "[.0225 .0225 .0225]"
+$phongdisablehalflambert 1
+}

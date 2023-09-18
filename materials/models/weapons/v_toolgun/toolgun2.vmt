@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+$basetexture models/weapons/v_toolgun/toolgun2
+$selfillum 1
+$model	1
+$envmapmask models/weapons/v_toolgun/toolgun2_mask 
+$envmap env_cubemap
+$envmaptint "[.3 .3 .3]"
+$phong	1
+$phongboost 1
+$phongfresnelranges "[1 1 1]"
+$phongexponent	90
+$phongdisablehalflambert 1
+}

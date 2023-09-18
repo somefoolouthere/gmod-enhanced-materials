@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+$basetexture phoenix_storms/gear
+$surfaceprop metal
+$envmap env_cubemap
+$envmaptint "[.85 .85 .85]"
+$envmapfresnel 1
+$model	1
+$basealphaenvmapmask 1
+$halflambert 0
+}

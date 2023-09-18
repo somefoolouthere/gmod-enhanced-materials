@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$basetexture hunter/mywindow
+$surfaceprop tile
+$bumpmap hunter/mywindow_normal
+$phong	1
+$phongexponent 80
+$phongboost 1
+$phongfresnelranges "[.8 .9 1]"
+$alphatest 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 1.25
+$phongtint "[.8 .8 .8]"
+$phongdisablehalflambert 1
+}

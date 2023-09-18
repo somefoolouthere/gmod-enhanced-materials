@@ -1,0 +1,16 @@
+VertexlitGeneric
+{
+$basetexture color/white
+$bumpmap null-bumpmap
+$envmap env_cubemap
+$phong 1
+$phongexponent 2
+$phongboost 1 
+$phongfresnelranges "[.5 .75 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 2
+$phongtint "[.5 .5 .5]"
+$envmaptint "[.07 .07 .07]"
+$envmapfresnel 1
+}

@@ -1,0 +1,16 @@
+LightmappedGeneric
+{
+$basetexture2 nature/sandfloor009b
+$basetexture gm_construct/grass1
+$surfaceprop grass
+$surfaceprop2 sand
+$detail gm_construct/grass_clouds
+$detailscale .125
+$phong	1
+$phongexponent 2
+$phongexponent2 4
+$phongamount "[.02 .02 .02 1]"
+$phongamount2 "[.04 .04 .04 1]"
+$phongmaskcontrastbrightness "[.1 0]"
+$phongmaskcontrastbrightness2 "[.1 0]"
+}

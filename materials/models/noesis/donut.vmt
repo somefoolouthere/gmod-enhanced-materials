@@ -1,0 +1,16 @@
+VertexlitGeneric
+{
+$basetexture models/Noesis/donut
+$surfaceprop Tile
+$surfaceprop2 Tile
+$bumpmap null-bumpmap
+$phong 1
+$phongboost 1
+$phongexponent 8
+$phongfresnelranges "[.2 .6 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 8
+$phongtint "[.2 .2 .2]"
+$phongdisablehalflambert 1
+}

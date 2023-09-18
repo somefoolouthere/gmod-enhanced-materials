@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+$baseTexture metal4
+$surfaceprop solidmetal
+$envmap env_cubemap
+$envmaptint "[1 1 1]"
+$model	1
+$bumpmap	null-bumpmap
+$phong	1
+$phongboost 2.56
+$phongexponent 256
+$phongfresnelranges "[1 1 1]"
+$phongdisablehalflambert 1
+}
+LightmappedGeneric_DX9_hdr
+{
+$envmaptint "[1 1 1]"
+$model	1
+}

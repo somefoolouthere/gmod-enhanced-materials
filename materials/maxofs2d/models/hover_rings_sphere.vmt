@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+$baseTexture MaxOfS2D/models/hover_rings
+$bumpmap null-bumpmap
+$translucent 1
+$phong 1
+$phongexponent 20
+$phongboost 1
+$phongfresnelranges "[.4 .7 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 20
+$phongtint "[.4 .4 .4]"
+}

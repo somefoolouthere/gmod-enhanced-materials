@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+$baseTexture models/police/metrocop_sheet
+$bumpmap models/police/metrocop_sheet_normal
+$phong	1
+$phongexponent 10
+$phongboost 1
+$phongfresnelranges "[.3 .65 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 10
+$phongtint "[.3 .3 .3]"
+$phongdisablehalflambert 1
+}

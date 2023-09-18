@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+$baseTexture steelreserve
+$surfaceprop metalcan
+$envmap env_cubemap
+$envmaptint "[.3 .3 .3]"
+$selfillum 0
+$model	1
+$bumpmap null-bumpmap
+$phong	1
+$phongboost 2.56
+$phongexponent 256
+$phongfresnelranges "[.3 .65 1]"
+$phongtint "[.3 .3 .3]"
+$envmapfresnel 1
+$phongdisablehalflambert 1
+LightmappedGeneric_DX9_hdr
+{
+$envmaptint "[.3 .3 .3]"
+$phongboost 2.56
+$phongfresnelranges "[.3 .65 1]"
+}
+}

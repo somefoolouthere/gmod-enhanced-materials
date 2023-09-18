@@ -1,0 +1,32 @@
+VertexLitGeneric
+{
+$basetexture Models/skeleton/skeleton
+$surfaceprop default
+$halflambert 0
+$model 1
+$bumpmap null-bumpmap
+$phong 1
+$phongboost 1
+$phongexponent 15
+$phongfresnelranges "[.15 .575 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 15
+$phongtint "[.15 .15 .15]"
+$phongdisablehalflambert 1
+Proxies
+{
+PlayerColor
+{
+resultVar $color2
+default 1 1 1
+}
+Clamp
+{
+min .8
+max 1.1
+srcVar1 $color2
+resultVar $color2
+}
+}
+}

@@ -1,0 +1,31 @@
+VertexLitGeneric
+{
+$baseTexture models/police/players_sheet
+$bumpmap models/police/metrocop_sheet_normal
+$phong	1
+$phongexponent 15
+$phongboost 1
+$phongfresnelranges "[.3 .65 1]"
+$rimlight 1
+$rimlightexponent 15
+$rimlightboost 1
+$phongtint "[.3 .3 .3]"
+$blendtintbybasealpha 1
+$blendtintcoloroverbase 0
+$phongdisablehalflambert 1
+Proxies
+{
+PlayerColor
+{
+resultVar	$color2
+default	.23 .35 .41
+}
+Clamp
+{
+min .01
+max 1.25
+srcVar1 $color2
+resultVar $color2
+}
+}
+}

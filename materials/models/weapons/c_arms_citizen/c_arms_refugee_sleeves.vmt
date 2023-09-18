@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+$basetexture models/weapons/c_arms_citizen/c_arms_refugee_sleeves
+$bumpmap	models/weapons/c_arms_citizen/c_arms_citizen_sleeves_normal
+$phong	1
+$phongboost 1
+$phongexponent 4
+$phongfresnelranges	"[.1 .55 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 4
+$phongtint "[.1 .1 .1]"
+$phongexponenttexture models/weapons/c_arms_citizen/c_arms_citizen_sleeves_normal
+$rimmask 1
+$phongdisablehalflambert 1
+}

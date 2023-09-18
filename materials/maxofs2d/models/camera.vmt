@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+$baseTexture MaxOfS2D/models/camera
+$bumpmap MaxOfS2D/models/camera_normal
+$phong 1
+$phongexponent 30
+$phongboost 1
+$phongfresnelranges "[.1 .55 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 30
+$phongtint "[.1 .1 .1]"
+$phongdisablehalflambert 1
+}

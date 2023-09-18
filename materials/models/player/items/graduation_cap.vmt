@@ -1,0 +1,24 @@
+VertexLitGeneric
+{
+$baseTexture models/player/items/graduation_cap
+$bumpmap models/player/items/graduation_cap_normal
+$phong 1
+$phongexponent 5
+$phongboost 1
+$phongfresnelranges	"[.3 .65 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 5
+$phongtint "[.3 .3 .3]"
+$blendtintbybasealpha 1
+$blendtintcoloroverbase 0
+$phongdisablehalflambert 1
+Proxies
+{
+PlayerColor
+{
+resultVar	$color2
+default	1 1 1
+}
+}
+}

@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+$baseTexture MaxOfS2D/models/logo_gmod
+$bumpmap MaxOfS2D/models/logo_gmod_phongmask
+$phong 1
+$phongboost 1
+$phongexponent 25
+$phongfresnelranges "[.4 .7 1]"
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 25
+$phongtint "[.4 .4 .4]"
+$phongdisablehalflambert 1
+}

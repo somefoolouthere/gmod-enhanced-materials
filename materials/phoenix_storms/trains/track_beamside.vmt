@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$basetexture phoenix_storms/trains/track_beamside
+	$surfaceprop metal
+	$halflambert	0
+	$bumpmap null-bumpmap
+	$phong	1
+	$phongboost 1
+	$phongexponent 1
+	$phongfresnelranges "[.01 .505 1]"
+	$rimlight 1
+	$rimlightboost 1
+	$rimlightexponent 1
+	$phongtint "[.01 .01 .01]"
+}

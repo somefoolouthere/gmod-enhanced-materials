@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+$baseTexture models/dav0r/hoverball
+$surfaceprop metal
+$envmap env_cubemap
+$envmaptint "[.01 .01 .01]"
+$envmapfresnel 1
+$selfillum	1
+$phong	1
+$phongboost 1
+$phongfresnelranges "[1 1 1]"
+$phongexponent 40
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 40
+$phongtint "[1 1 1]"
+$bumpmap models/dav0r/hoverball_nrm
+$normalmapalphaenvmapmask 1
+$phongdisablehalflambert 1
+}
