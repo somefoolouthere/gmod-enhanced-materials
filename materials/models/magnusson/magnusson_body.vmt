@@ -1,9 +1,9 @@
 VertexLitGeneric
 {
-$basetexture	Models/Magnusson/magnusson_body
-$surfaceprop	default
-$model 1
+$basetexture models/magnusson/magnusson_body
 $bumpmap null-bumpmap
+$surfaceprop default
+$model	1
 $phong	1
 $phongboost 1
 $phongexponent 1

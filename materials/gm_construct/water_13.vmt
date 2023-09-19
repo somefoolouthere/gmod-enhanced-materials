@@ -10,7 +10,7 @@ $refracttexture _rt_WaterRefraction
 $refractamount 1
 $reflecttexture _rt_WaterReflection
 $reflectamount .4
-$scale "[1 1]"
+$scale	"[1 1]"
 $bumpmap gm_construct/water_13_dudv
 $normalmap gm_construct/water_13_normal
 $surfaceprop water
@@ -26,9 +26,9 @@ Proxies
 {
 TextureScroll
 {
-texturescrollvar $bumptransform
-texturescrollrate .02
-texturescrollangle 25
+texturescrollvar	$bumptransform
+texturescrollrate	.02
+texturescrollangle	25
 }
 WaterLOD
 {

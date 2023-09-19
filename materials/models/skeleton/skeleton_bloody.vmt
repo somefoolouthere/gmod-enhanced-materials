@@ -1,16 +1,16 @@
 VertexLitGeneric
 {
-$basetexture	Models/skeleton/skeleton_bloody
-$surfaceprop	default
-$model	1
+$basetexture models/skeleton/skeleton_bloody
 $bumpmap null-bumpmap
+$surfaceprop default
+$model	1
 $phong	1
 $phongboost 1
 $phongexponent 15
 $phongfresnelranges "[.15 .575 1]"
+$phongtint "[.15 .15 .15]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 15
-$phongtint "[.15 .15 .15]"
-$phongdisablehalflambert 1
 }

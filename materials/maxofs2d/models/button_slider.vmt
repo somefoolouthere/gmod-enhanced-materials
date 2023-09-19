@@ -4,7 +4,7 @@ $baseTexture MaxOfS2D/models/button_slider
 $bumpmap MaxOfS2D/models/button_slider_normal
 $blendtintbybasealpha 1
 $blendtintcoloroverbase 0
-$phong 1
+$phong	1
 $phongexponent 10
 $phongboost 1
 $phongfresnelranges "[.4 .7 1]"

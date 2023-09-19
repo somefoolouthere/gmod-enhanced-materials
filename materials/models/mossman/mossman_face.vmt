@@ -1,15 +1,16 @@
 VertexLitGeneric
 {
-	$baseTexture models/mossman/mossman_face
-	$bumpmap models/mossman/mossman_head_normal
-	$phong 1
-	$phongexponent 10
-	$phongboost 1
-	$phongfresnelranges "[.3 .65 1]"
-	$phongexponenttexture models/humans/facemap_phong
-	$phongtint "[.3 .3 .3]"
-	$rimlight 1
-	$rimlightboost 1
-	$rimlightexponent 10
-	$rimmask 1
+$baseTexture models/mossman/mossman_face
+$bumpmap models/mossman/mossman_head_normal
+$phong 1
+$phongexponent 10
+$phongboost 1
+$phongfresnelranges "[.3 .65 1]"
+$phongexponenttexture models/humans/facemap_phong
+$phongtint "[.3 .3 .3]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 10
+$rimmask 1
 }

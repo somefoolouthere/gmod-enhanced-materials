@@ -1,15 +1,15 @@
 VertexLitGeneric
 {
 $baseTexture models/kleiner/kleiner_sheet
-$bumpmap models/kleiner/kleiner_sheet_normal
+$bumpmap	models/kleiner/kleiner_sheet_normal
 $phong	1
-$phongexponent 6
 $phongboost 1
+$phongexponent 6
 $phongfresnelranges "[.1 .55 1]"
+$phongtint "[.1 .1 .1]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 6
 $rimmask 1
-$phongtint "[.1 .1 .1]"
-$phongdisablehalflambert 1
 }

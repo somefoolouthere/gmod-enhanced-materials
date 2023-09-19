@@ -1,20 +1,20 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/dome_side
+$bumpmap	phoenix_storms/dome_side_bump
 $nocull 1
 $surfaceprop metal
-$bumpmap phoenix_storms/dome_side_bump
 $envmap env_cubemap
-$normalmapalphaenvmapmask 1
 $envmaptint "[.1 .1 .1]"
-$model 1
-$phong 1
+$normalmapalphaenvmapmask 1
+$model	1
+$phong	1
 $phongexponent 20
 $phongboost 1
 $phongfresnelranges "[1 1 1]"
+$phongtint "[1 1 1]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 1
-$phongtint "[1 1 1]"
-$phongdisablehalflambert 1
 }

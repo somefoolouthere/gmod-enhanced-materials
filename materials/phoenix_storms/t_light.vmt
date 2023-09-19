@@ -1,13 +1,13 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/t_light
+$bumpmap	null-bumpmap
 $selfillum 1
 $envmap env_cubemap
 $envmaptint "[.5 .5 .5]"
 $envmapfresnel 1
-$model 1
-$bumpmap null-bumpmap
-$phong 1
+$model	1
+$phong	1
 $phongboost 2.56
 $phongexponent 256
 $phongfresnelranges "[.5 .75 1]"
@@ -17,7 +17,7 @@ Proxies
 {
 AnimatedTexture
 {
-animatedTextureVar $basetexture
+animatedTextureVar	$basetexture
 animatedTextureFrameNumVar $frame
 animatedTextureFrameRate 1
 }

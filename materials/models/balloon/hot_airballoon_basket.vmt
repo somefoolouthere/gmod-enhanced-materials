@@ -1,8 +1,10 @@
 VertexLitGeneric
 {
-$basetexture models\balloon\hot_airballoon_basket
-$bumpmap models\balloon\hot_airballoon_basket_normal
+$basetexture models/balloon/hot_airballoon_basket
+$bumpmap models/balloon/hot_airballoon_basket_normal
+$nocull 1
 $envmap env_cubemap
+$envmaptint "[.1 .1 .1]"
 $normalmapalphaenvmapmask 1
 $phong	1
 $phongexponent 10
@@ -12,7 +14,5 @@ $rimlight 1
 $rimlightboost 1
 $rimlightexponent 10
 $phongtint "[.6 .6 .6]"
-$envmaptint "[.1 .1 .1]"
-$nocull 1
 $phongdisablehalflambert 1
 }

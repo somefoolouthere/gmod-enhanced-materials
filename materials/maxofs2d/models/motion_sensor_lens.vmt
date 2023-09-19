@@ -1,11 +1,11 @@
 VertexLitGeneric
 {
-$baseTexture MaxOfS2D/models/motion_sensor
+$baseTexture maxofs2d/models/motion_sensor
+$bumpmap null-bumpmap
 $envmap env_cubemap
 $envmaptint "[.5 .5 .5]"
 $envmapfresnel 1
-$bumpmap null-bumpmap
-$phong 1
+$phong	1
 $phongboost 2.56
 $phongexponent 256
 $phongfresnelranges "[.5 .75 1]"

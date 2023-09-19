@@ -1,14 +1,14 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/checkers
-$surfaceprop tile
 $bumpmap phoenix_storms/checkers_bump
+$surfaceprop tile
 $envmap env_cubemap
-$normalmapalphaenvmapmask 1
 $envmaptint "[.447 .447 .447]"
 $envmapfresnel 1
-$model 1
-$phong 1
+$normalmapalphaenvmapmask 1
+$model	1
+$phong	1
 $phongboost 2.56
 $phongexponent 256
 $phongfresnelranges "[.447 .724 1]"

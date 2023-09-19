@@ -1,13 +1,13 @@
 VertexLitGeneric
 {
-$basetexture	Models/Magnusson/magnusson_face
-$surfaceprop	default
-$bumpmap	Models/Magnusson/magnusson_face_normal
+$basetexture models/magnusson/magnusson_face
+$surfaceprop default
+$bumpmap	models/magnusson/magnusson_face_normal
 $model	1
 $phong	1
 $phongboost 1
 $phongexponent 10
-$phongfresnelranges	"[.9 .95 1]"
+$phongfresnelranges "[.9 .95 1]"
 $phongexponenttexture models/humans/facemap_phong
 $phongtint "[.9 .9 .9]"
 $rimlight 1

@@ -1,16 +1,16 @@
 VertexLitGeneric
 {
-$baseTexture MaxOfS2D/models/lamp_projector
-$bumpmap MaxOfS2D/models/lamp_projector_normal
+$baseTexture maxofs2d/models/lamp_projector
+$bumpmap	maxofs2d/models/lamp_projector_normal
 $blendtintbybasealpha 1
 $blendtintcoloroverbase 0
-$phong 1
+$phong	1
 $phongexponent 20
 $phongboost 1
 $phongfresnelranges "[.7 .85 1]"
+$phongtint "[.7 .7 .7]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 20
-$phongtint "[.7 .7 .7]"
-$phongdisablehalflambert 1
 }

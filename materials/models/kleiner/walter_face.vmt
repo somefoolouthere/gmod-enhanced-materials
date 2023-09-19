@@ -1,14 +1,14 @@
 VertexLitGeneric
 {
-$basetexture models/Kleiner/walter_face
-$bumpmap models/Kleiner/walter_face_normal
-$phong 1
+$basetexture models/kleiner/walter_face
+$bumpmap	models/kleiner/walter_face_normal
+$phong	1
 $phongexponent 10
 $phongboost 1
 $phongfresnelranges "[.4 .7 1]"
 $phongtint "[.4 .4 .4]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 10
-$phongdisablehalflambert 1
 }

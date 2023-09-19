@@ -1,19 +1,19 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/cannon
-$surfaceprop metal
 $bumpmap phoenix_storms/cannon_bump
+$surfaceprop metal
 $envmap env_cubemap
 $envmaptint "[.2 .2 .2]"
 $envmapfresnel 1
-$model 1
-$phong 1
+$model	1
+$phong	1
 $phongboost 51.2
 $phongexponent 256
 $phongfresnelranges "[.2 .6 1]"
+$phongtint "[.01 .01 .01]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 1
-$phongtint "[.01 .01 .01]"
-$phongdisablehalflambert 1
 }

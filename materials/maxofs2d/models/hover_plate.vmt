@@ -1,14 +1,14 @@
 VertexLitGeneric
 {
-$baseTexture MaxOfS2D/models/hover_plate
-$bumpmap MaxOfS2D/models/hover_plate_normal
-$phong 1
+$basetexture maxofs2d/models/hover_plate
+$bumpmap	maxofs2d/models/hover_plate_normal
+$phong	1
 $phongexponent 10
 $phongboost 1
 $phongfresnelranges "[.8 .9 1]"
+$phongtint "[.8 .8 .8]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 10
-$phongtint "[.8 .8 .8]"
-$phongdisablehalflambert 1
 }

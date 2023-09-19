@@ -1,12 +1,12 @@
 VertexLitGeneric
 {
 $basetexture models/debug/debugwhite
+$bumpmap null-bumpmap
 $surfaceprop metal
 $envmap env_cubemap
 $envmaptint "[.5 .5 .5]"
 $envmapfresnel 1
 $model	1
-$bumpmap null-bumpmap
 $phong	1
 $phongboost 2.56
 $phongexponent 256

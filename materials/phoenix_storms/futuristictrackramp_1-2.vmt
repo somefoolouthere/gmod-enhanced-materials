@@ -1,15 +1,15 @@
 VertexLitGeneric
 {
-$basetexture phoenix_storms/FuturisticTrackRamp_1-2
+$basetexture phoenix_storms/futuristictrackramp_1-2
+$bumpmap	phoenix_storms/futuristictrackramp_bump
 $surfaceprop metal
-$bumpmap phoenix_storms/FuturisticTrackRamp_bump
 $phong	1
-$phongexponent 60
 $phongboost 1
+$phongexponent 100
 $phongfresnelranges "[1 1 1]"
-$rimlight 1
-$rimlightboost 1
-$rimlightexponent 60
 $phongtint "[1 1 1]"
 $phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 1
 }

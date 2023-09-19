@@ -3,7 +3,7 @@ VertexLitGeneric
 $baseTexture bmw
 $surfaceprop rubbertire
 $bumpmap bmw_bump
-$phong 1
+$phong	1
 $phongexponent 150
 $phongboost 1
 $phongfresnelranges "[1 1 1]"

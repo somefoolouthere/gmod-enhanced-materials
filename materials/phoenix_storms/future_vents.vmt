@@ -4,12 +4,12 @@ $basetexture phoenix_storms/future_vents_noalpha
 $bumpmap	phoenix_storms/future_vents_bump
 $surfaceprop metal
 $phong	1
-$phongexponent	60
 $phongboost	1
+$phongexponent	100
 $phongfresnelranges	"[1 1 1]"
-$rimlight 1
-$rimlightboost 1
-$rimlightexponent 60
 $phongtint "[1 1 1]"
 $phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 1
 }

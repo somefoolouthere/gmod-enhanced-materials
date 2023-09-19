@@ -7,14 +7,14 @@ $phong	1
 $phongexponenttexture models/Alyx/alyx_sheet_exponent
 $phongboost	1
 $phongfresnelranges	"[.3 .65 1]"
+$phongtint "[.3 .3 .3]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightexponent 8
 $rimlightboost 1
 $rimmask 1
-$phongtint "[.3 .3 .3]"
 $blendtintbybasealpha 1
 $blendtintcoloroverbase 0
-$phongdisablehalflambert 1
 Proxies
 {
 PlayerColor

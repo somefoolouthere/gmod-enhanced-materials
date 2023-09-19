@@ -2,7 +2,7 @@ VertexLitGeneric
 {
 $baseTexture MaxOfS2D/models/button_03
 $bumpmap MaxOfS2D/models/button_03_normal
-$phong 1
+$phong	1
 $phongexponent 10
 $phongboost 1
 $phongfresnelranges "[.7 .85 1]"

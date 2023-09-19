@@ -1,30 +1,30 @@
 VertexLitGeneric
 {
-$basetexture models/XQM/LightLinesRed
+$basetexture models/xqm/lightlinesred
+$bumpmap models/xqm/lightlinesred_normal
 $basetexturetransform "center .5 .5 scale 2 2 rotate 0 translate 0 0"
 $surfaceprop metal
-$bumpmap models/XQM/LightLinesRed_normal
-$model 1
-$phong 1
+$selfillum 1
+$detail maxofs2d/terrain_detail
+$detailscale 1
+$detailblendfactor .01
+$detailblendmode 4
+$model	1
+$phong	1
 $phongexponent 30
 $phongboost 1
 $phongfresnelranges "[.5 .75 1]"
-$selfillum 1
-$detail	MaxOfS2D/terrain_detail
-$detailscale	1
-$detailblendfactor	.01
-$detailblendmode	4
+$phongtint "[.5 .5 .5]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 30
-$phongtint "[.5 .5 .5]"
 $frame 12
-$phongdisablehalflambert 1
 Proxies
 {
 AnimatedTexture
 {
-animatedtexturevar $basetexture
+animatedtexturevar	$basetexture
 animatedtextureframenumvar $frame
 animatedtextureframerate 20
 }

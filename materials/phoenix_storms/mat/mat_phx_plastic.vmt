@@ -1,19 +1,19 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/mat/mat_phx_metallic
-$surfaceprop metal
 $bumpmap phoenix_storms/mat/mat_phx_metallic_normal
+$surfaceprop metal
 $envmap env_cubemap
-$normalmapalphaenvmapmask 1
 $envmaptint "[.01 .01 .01]"
+$normalmapalphaenvmapmask 1
 $model 1
 $phong 1
 $phongexponent 3
 $phongboost 1
 $phongfresnelranges "[1 1 1]"
-$HalfLambert 0
+$phongtint "[1 1 1]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 3
-$phongtint "[1 1 1]"
 }

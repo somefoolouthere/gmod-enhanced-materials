@@ -2,7 +2,7 @@ LightmappedGeneric
 {
 $basetexture plaster/plasterwall017c
 $surfaceprop plaster
-$detail detail\plaster_detail_01
+$detail detail/plaster_detail_01
 $detailscale 6.783
 $detailblendfactor .8
 $detailblendmode 0

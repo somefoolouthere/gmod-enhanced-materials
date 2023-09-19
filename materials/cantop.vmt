@@ -1,17 +1,17 @@
 VertexLitGeneric
 {
-$baseTexture cantop
+$basetexture cantop
+$bumpmap null-bumpmap
 $surfaceprop metalcan
 $envmap env_cubemap
 $envmaptint "[.316 .316 .316]"
-$model 1
-$bumpmap null-bumpmap
-$phong 1
+$envmapfresnel 1
+$model	1
+$phong	1
 $phongboost 2.56
 $phongexponent 256
 $phongfresnelranges "[.316 .658 1]"
 $phongtint "[.316 .316 .316]"
-$envmapfresnel 1
 $phongdisablehalflambert 1
 LightmappedGeneric_DX9_hdr
 {

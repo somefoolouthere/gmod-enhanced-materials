@@ -6,18 +6,19 @@ $phong	1
 $phongboost 1
 $phongexponent 10
 $phongfresnelranges	"[.3 .65 1]"
+$phongtint "[.3 .3 .3]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightexponent 10
 $rimlightboost 1
 $rimmask 1
-$phongtint "[.3 .3 .3]"
 $blendtintbybasealpha 1
 $blendtintcoloroverbase 0
 Proxies
 {
 PlayerColor
 {
-resultVar	$color2
+resultVar $color2
 default	.9 .8 .7
 }
 Clamp

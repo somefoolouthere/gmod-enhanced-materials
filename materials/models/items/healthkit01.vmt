@@ -1,9 +1,9 @@
 VertexLitGeneric
 {
-$basetexture Models/Items/Healthkit01
+$basetexture models/items/healthkit01
 $surfaceprop metal
 $envmap env_cubemap
 $envmaptint "[.5 .5 .5]"
-$envmapmask Models/Items/Healthkit01_mask
+$envmapmask models/items/healthkit01_mask
 $selfillum 1
 }

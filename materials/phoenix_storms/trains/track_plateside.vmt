@@ -1,15 +1,15 @@
 VertexLitGeneric
 {
-	$basetexture phoenix_storms/trains/track_plateside
-	$surfaceprop metal
-	$bumpmap phoenix_storms/trains/track_plateside_normal
-	$phong	1
-	$halflambert 0
-	$phongexponent 60
-	$phongboost 1
-	$phongfresnelranges "[1 1 1]"
-	$rimlight 1
-	$rimlightboost 1
-	$rimlightexponent 60
-	$phongtint "[1 1 1]"
+$basetexture phoenix_storms/trains/track_plateside
+$bumpmap phoenix_storms/trains/track_plateside_normal
+$surfaceprop metal
+$phong	1
+$phongexponent 60
+$phongboost 1
+$phongfresnelranges "[1 1 1]"
+$phongtint "[1 1 1]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 60
 }

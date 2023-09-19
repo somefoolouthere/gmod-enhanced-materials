@@ -6,8 +6,8 @@ $detail detail/noise_detail_01
 $detailscale 5
 $detailblendfactor .8
 $detailblendmode 0
-$model 1
-$phong 1
+$model	1
+$phong	1
 $phongboost 1
 $phongexponent 2
 $phongfresnelranges "[.02 .51 1]"

@@ -1,12 +1,12 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/zc_tank
+$bumpmap	null-bumpmap
 $surfaceprop plastic
 $envmap env_cubemap
 $envmaptint "[.3 .3 .3]"
 $envmapfresnel 1
 $model	1
-$bumpmap null-bumpmap
 $phong	1
 $phongboost 2.56
 $phongexponent 256

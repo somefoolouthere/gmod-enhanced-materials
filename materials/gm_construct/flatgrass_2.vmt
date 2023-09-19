@@ -13,6 +13,6 @@ $phongexponent 2
 $phongexponent2 2
 $phongamount "[.02 .02 .02 1]"
 $phongamount2 "[.02 .02 .02 1]"
-$phongmaskcontrastbrightness "[.1 0]"
-$phongmaskcontrastbrightness2 "[.1 0]"
+$phongmaskcontrastbrightness "[.2 0]"
+$phongmaskcontrastbrightness2 "[.2 0]"
 }

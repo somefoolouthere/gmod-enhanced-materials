@@ -7,7 +7,7 @@ $detail detail/noise_detail_01
 $detailscale 6
 $detailblendfactor .6
 $detailblendmode 0
-$phong 1
+$phong	1
 $phongexponent 4
 $phongamount "[.04 .04 .04 1]"
 $phongmaskcontrastbrightness "[0 0]"

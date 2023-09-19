@@ -2,7 +2,7 @@ VertexLitGeneric
 {
 $baseTexture MaxOfS2D/models/hover_basic
 $bumpmap MaxOfS2D/models/hover_basic_normal
-$phong 1
+$phong	1
 $phongexponent 10
 $phongboost 1
 $phongfresnelranges "[.7 .85 1]"
@@ -10,6 +10,6 @@ $rimlight 1
 $rimlightboost 1
 $rimlightexponent 10
 $phongtint "[.7 .7 .7]"
-$BasemapAlphaPhongMask 1
+$basemapalphaphongmask 1
 $phongdisablehalflambert 1
 }

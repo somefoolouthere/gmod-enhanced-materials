@@ -1,16 +1,16 @@
 VertexLitGeneric
 {
-$basetexture models/XQM/WoodTexture_1
+$basetexture models/xqm/woodtexture_1
+$bumpmap models/xqm/woodtexture_1_normal
 $surfaceprop concrete
-$bumpmap models/XQM/WoodTexture_1_normal
-$model 1
-$phong 1
+$model	1
+$phong	1
 $phongexponent 40
 $phongboost 1
 $phongfresnelranges "[.8 .9 1]"
+$phongtint "[.8 .8 .8]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 40
-$phongtint "[.8 .8 .8]"
-$phongdisablehalflambert 1
 }

@@ -1,14 +1,15 @@
 VertexLitGeneric
 {
-	$basetexture models/monk/grigori_head
-	$bumpmap models/monk/monk_head_normal
-	$phong	1
-	$phongexponent 10
-	$phongboost 1
-	$phongfresnelranges	"[.3 .65 1]"
-	$phongtint "[.3 .3 .3]"
-	$rimlight 1
-	$rimlightboost 1
-	$rimlightexponent 10
-	$rimmask 1
+$basetexture models/monk/grigori_head
+$bumpmap models/monk/monk_head_normal
+$phong	1
+$phongexponent 10
+$phongboost 1
+$phongfresnelranges	"[.3 .65 1]"
+$phongtint "[.3 .3 .3]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 10
+$rimmask 1
 }

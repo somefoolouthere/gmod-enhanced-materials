@@ -1,1 +1,33 @@
-VertexLitGeneric { $baseTexture models/Zombie_Classic/zombie_players_sheet $bumpmap Models/zombie_classic/zombie_classic_sheet_normal $model 1 $phong 1 $phongboost 1 $halflambert 0 $phongalbedotint 0 $phongfresnelranges	"[.7 .85 1]" $phongexponent 15 $rimlight 1 $rimlightexponent 15 $rimlightboost 1 $phongtint "[.7 .7 .7]" $blendtintbybasealpha 1 $blendtintcoloroverbase 0 Proxies { PlayerColor { resultVar $color2 default .2 .4 .7 } Clamp { min .01 max 1.5 srcVar1 $color2 resultVar $color2 } } }
+VertexLitGeneric
+{
+$baseTexture models/zombie_classic/zombie_players_sheet
+$bumpmap	models/zombie_classic/zombie_classic_sheet_normal
+$model	1
+$phong	1
+$phongboost 1
+$phongexponent 15
+$phongalbedotint 0
+$phongfresnelranges "[.7 .85 1]"
+$phongtint "[.7 .7 .7]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightexponent 15
+$rimlightboost 1
+$blendtintbybasealpha 1
+$blendtintcoloroverbase 0
+Proxies
+{
+PlayerColor
+{
+resultVar $color2
+default .2 .4 .7
+}
+Clamp
+{
+min .01
+max 1.5
+srcVar1 $color2
+resultVar $color2
+}
+}
+}

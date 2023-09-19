@@ -1,1 +1,14 @@
-VertexlitGeneric { $basetexture squad/orangebox $bumpmap null-bumpmap $phong 1 $phongboost 1 $phongexponent 2 $phongfresnelranges "[.02 .51 1]" $rimlight 1 $rimlightboost 1 $rimlightexponent 2 $phongtint "[.02 .02 .02]" }
+VertexlitGeneric
+{
+$basetexture squad/orangebox
+$bumpmap null-bumpmap
+$phong	1
+$phongboost 1
+$phongexponent 2
+$phongfresnelranges "[.02 .51 1]"
+$phongtint "[.02 .02 .02]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 50
+}

@@ -1,14 +1,13 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/trucktire
-$bumpmap phoenix_storms/trucktire_bump
+$bumpmap	phoenix_storms/trucktire_bump
 $surfaceprop metal
 $envmap env_cubemap
-$envmaptint "[1 1 1]"
 $normalmapalphaenvmapmask 1
 $model	1
 $phong	1
-$phongboost 1
+$phongboost 2.56
 $phongexponent 256
 $phongfresnelranges "[1 1 1]"
 $phongdisablehalflambert 1

@@ -1,16 +1,16 @@
 VertexLitGeneric
 {
-$basetexture models/NatesWheel/nateswheel_diffuse
+$basetexture models/nateswheel/nateswheel_diffuse
+$bumpmap	models/nateswheel/nateswheel_normal
 $surfaceprop rubbertire
-$bumpmap models/NatesWheel/nateswheel_normal
-$phong	1
-$phongexponent 40
-$phongboost 1
-$phongfresnelranges "[.5 .75 1]"
 $model	1
+$phong	1
+$phongboost 1
+$phongexponent 40
+$phongfresnelranges "[.5 .75 1]"
+$phongtint "[.5 .5 .5]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 40
-$phongtint "[.5 .5 .5]"
-$phongdisablehalflambert 1
 }

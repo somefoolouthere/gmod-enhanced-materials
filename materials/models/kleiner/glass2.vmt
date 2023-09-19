@@ -1,10 +1,10 @@
 UnlitGeneric
 {
+$basetexture models/kleiner/glasslens
 $additive 1
-$basetexture models/Kleiner/glasslens
 $translucent 1
 $envmap env_cubemap
-$model 1
+$model	1
 $halflambert 1
 UnlitGeneric_DX8
 {

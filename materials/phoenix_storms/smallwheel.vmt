@@ -1,17 +1,17 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/smallwheel
+$bumpmap	phoenix_storms/smallwheel_bump
 $surfaceprop metal
-$bumpmap phoenix_storms/smallwheel_bump
 $envmap env_cubemap
-$normalmapalphaenvmapmask 1
 $envmaptint "[.6 .6 .6]"
+$envmapfresnel 1
+$normalmapalphaenvmapmask 1
 $model	1
 $phong	1
 $phongboost 2.56
 $phongexponent 256
 $phongfresnelranges "[.6 .8 1]"
-$envmapfresnel 1
 $phongtint "[.6 .6 .6]"
 $phongdisablehalflambert 1
 }

@@ -1,13 +1,13 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/chrome
+$bumpmap null-bumpmap
 $surfaceprop metal
 $envmap env_cubemap
 $envmaptint "[.837 .837 .837]"
 $envmapfresnel 1
-$model 1
-$bumpmap null-bumpmap
-$phong 1
+$model	1
+$phong	1
 $phongboost 2.56
 $phongexponent 256
 $phongfresnelranges "[.837 .918 1]"

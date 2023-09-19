@@ -4,10 +4,7 @@ $basetexture phoenix_storms/pack2/glass
 %compilepassbullets 1
 $translucent 1
 $surfaceprop glass
-$reflectentities 1
-$reflecttexture _rt_WaterReflection
 $envmap env_cubemap
-$envmaptint "[1 1 1]"
-$model 1
-$halflambert 0
+$model	1
+$halflambert 1
 }

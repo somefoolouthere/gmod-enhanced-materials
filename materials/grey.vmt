@@ -1,12 +1,12 @@
 VertexLitGeneric
 {
-$baseTexture metal4
+$basetexture metal4
+$bumpmap null-bumpmap
 $surfaceprop solidmetal
 $envmap env_cubemap
 $envmaptint "[1 1 1]"
-$model 1
-$bumpmap null-bumpmap
-$phong 1
+$model	1
+$phong	1
 $phongboost 1
 $phongexponent 256
 $phongfresnelranges "[1 1 1]"

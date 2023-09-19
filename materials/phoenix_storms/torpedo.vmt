@@ -1,8 +1,8 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/torpedo
+$bumpmap	phoenix_storms/torpedo_bump
 $surfaceprop metal
-$bumpmap phoenix_storms/torpedo_bump
 $envmap env_cubemap
 $envmaptint "[.2 .2 .2]"
 $envmapfresnel 1

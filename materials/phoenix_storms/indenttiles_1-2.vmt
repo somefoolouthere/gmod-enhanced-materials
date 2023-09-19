@@ -1,8 +1,8 @@
 VertexLitGeneric
 {
-$basetexture phoenix_storms/indentTiles_1-2
+$basetexture phoenix_storms/indenttiles_1-2
+$bumpmap	phoenix_storms/indenttiles_bump
 $surfaceprop metal
-$bumpmap phoenix_storms/indentTiles_bump
 $envmap env_cubemap
 $envmaptint "[.349 .349 .349]"
 $envmapfresnel 1

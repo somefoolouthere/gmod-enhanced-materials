@@ -1,16 +1,16 @@
 VertexLitGeneric
 {
-$basetexture models/XQM/Rails/gumball_1
+$basetexture models/xqm/rails/gumball_1
+$bumpmap models/xqm/rails/gumball_1_normal
 $surfaceprop metal
-$bumpmap models/XQM/Rails/gumball_1_normal
+$model	1
 $phong	1
 $phongexponent 40
 $phongboost 1
 $phongfresnelranges "[.6 .8 1]"
+$phongtint "[.6 .6 .6]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 40
-$phongtint "[.6 .6 .6]"
-$model	1
-$phongdisablehalflambert 1
 }

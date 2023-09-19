@@ -2,23 +2,23 @@ VertexLitGeneric
 {
 $baseTexture models/mossman/players_sheet
 $bumpmap models/mossman/mossman_normal
-$halflambert 0
-$phong 1
+$phong	1
 $phongexponent 3
 $phongboost 1
 $phongfresnelranges "[.1 .55 1]"
+$phongtint "[.1 .1 .1]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightexponent 3
 $rimlightboost 1
 $rimmask 1
-$phongtint "[.1 .1 .1]"
 $blendtintbybasealpha 1
 $blendtintcoloroverbase 0
 Proxies
 {
 PlayerColor
 {
-resultVar	$color2
+resultVar $color2
 default	.23 .35 .41
 }
 Clamp

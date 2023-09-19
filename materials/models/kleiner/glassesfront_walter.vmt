@@ -1,8 +1,7 @@
 VertexLitGeneric
 {
-$basetexture models/Kleiner/glassesfront_walter
-$envmapmask models/Kleiner/glassesfrontmask_walter
+$basetexture models/kleiner/glassesfront_walter
+$envmapmask models/kleiner/glassesfrontmask_walter
 $envmap env_cubemap
-$halflambert 0
 $envmaptint "[.5 .5 .5]"
 }

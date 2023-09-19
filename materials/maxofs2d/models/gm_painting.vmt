@@ -1,15 +1,15 @@
 VertexLitGeneric
 {
-$baseTexture MaxOfS2D/models/gm_painting
+$baseTexture maxofs2d/models/gm_painting
 $bumpmap null-bumpmap
-$phong 1
+$phong	1
 $phongexponent 15
 $phongboost 1
 $phongfresnelranges "[.3 .65 1]"
+$phongtint "[.3 .3 .3]"
+$basemapalphaphongmask 1
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 15
-$phongtint "[.3 .3 .3]"
-$BasemapAlphaPhongMask 1
-$phongdisablehalflambert 1
 }

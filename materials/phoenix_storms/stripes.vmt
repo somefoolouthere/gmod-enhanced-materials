@@ -1,15 +1,15 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/stripes
+$bumpmap	phoenix_storms/stripes_normal
 $surfaceprop metal
-$bumpmap phoenix_storms/stripes_normal
 $phong	1
-$phongexponent 20
+$phongexponent 100
 $phongboost 1
 $phongfresnelranges "[1 1 1]"
-$rimlight 1
-$rimlightboost 1
-$rimlightexponent 20
 $phongtint "[1 1 1]"
 $phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 1
 }

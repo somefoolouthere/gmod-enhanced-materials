@@ -1,12 +1,12 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/fender_wood
+$bumpmap	null-bumpmap
 $surfaceprop wood
 $envmap env_cubemap
 $envmaptint "[.4 .4 .4]"
 $envmapfresnel 1
 $model	1
-$bumpmap null-bumpmap
 $phong	1
 $phongboost 2.56
 $phongexponent 256

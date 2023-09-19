@@ -4,7 +4,7 @@ $baseTexture MaxOfS2D/models/companion_doll
 $bumpmap MaxOfS2D/models/companion_doll_normal
 $blendtintbybasealpha 1
 $blendtintcoloroverbase .05
-$phong 1
+$phong	1
 $phongexponent 12
 $phongboost 1
 $phongfresnelranges "[.2 .6 1]"

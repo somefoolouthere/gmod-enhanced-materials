@@ -1,8 +1,9 @@
 VertexLitGeneric
 {
-$basetexture models\chairs\armchair
-$bumpmap models\chairs\armchair_normal
+$basetexture models/chairs/armchair
+$bumpmap models/chairs/armchair_normal
 $envmap env_cubemap
+$envmaptint "[.03 .03 .03]"
 $normalmapalphaenvmapmask 1
 $phong	1
 $phongexponent 2
@@ -12,6 +13,5 @@ $rimlight 1
 $rimlightboost 1
 $rimlightexponent 2
 $phongtint "[.5 .5 .5]"
-$envmaptint "[.03 .03 .03]"
 $phongdisablehalflambert 1
 }

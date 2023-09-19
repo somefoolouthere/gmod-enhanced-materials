@@ -2,7 +2,9 @@ VertexLitGeneric
 {
 $basetexture models\balloon\hot_airballoon
 $bumpmap models\balloon\hot_airballoon_normal
+$nocull 1
 $envmap env_cubemap
+$envmaptint "[.05 .05 .05]"
 $phong	1
 $phongexponent 3
 $phongboost 1
@@ -11,7 +13,5 @@ $rimlight 1
 $rimlightboost 1
 $rimlightexponent 3
 $phongtint "[.5 .5 .5]"
-$envmaptint "[.05 .05 .05]"
-$nocull 1
 $phongdisablehalflambert 1
 }

@@ -1,1 +1,19 @@
-VertexLitGeneric { $basetexture phoenix_storms/mat/mat_phx_carbonfiber $surfaceprop metal $bumpmap phoenix_storms/mat/mat_phx_carbonfiber_normal $envmap env_cubemap $normalmapalphaenvmapmask 1 $envmaptint "[.02 .02 .02]" $model	1 $phong	1 $phongexponent 10 $phongboost 1 $phongfresnelranges "[1 1 1]" $HalfLambert 0 $rimlight 1 $rimlightboost 1 $rimlightexponent 10 $phongtint "[1 1 1]" }
+VertexLitGeneric
+{
+$basetexture phoenix_storms/mat/mat_phx_carbonfiber
+$bumpmap phoenix_storms/mat/mat_phx_carbonfiber_normal
+$surfaceprop metal
+$envmap env_cubemap
+$envmaptint "[.02 .02 .02]"
+$normalmapalphaenvmapmask 1
+$model	1
+$phong	1
+$phongexponent 10
+$phongboost 1
+$phongfresnelranges "[1 1 1]"
+$phongtint "[1 1 1]"
+$phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 10
+}
