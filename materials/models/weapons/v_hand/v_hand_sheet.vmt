@@ -2,22 +2,23 @@ VertexLitGeneric
 {
 $basetexture models/Weapons/V_hand/v_hand_sheet
 $bumpmap models/Weapons/V_hand/v_hand_sheet_normal
+$nocull 1
 $phong	1
-$phongexponent 10
+$phongexponent 50
 $phongboost 1
 $phongfresnelranges "[.5 .75 1]"
-$blendtintbybasealpha 1
-$blendtintcoloroverbase .05
-$rimlight 1
-$rimlightboost 1
-$rimlightexponent 10
 $phongtint "[.5 .5 .5]"
 $phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 50
+$blendtintbybasealpha 1
+$blendtintcoloroverbase .05
 Proxies
 {
 PlayerColor
 {
-resultVar	$color2
+resultVar $color2
 default	.87 .58 .27
 }
 Clamp
