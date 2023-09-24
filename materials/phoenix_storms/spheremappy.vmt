@@ -5,11 +5,12 @@ $bumpmap	phoenix_storms/sphere_bump
 $surfaceprop metal
 $phong	1
 $phongexponent 80
-$phongboost 1
+$phongboost 4
 $phongfresnelranges "[.8 .9 1]"
 $phongtint "[.8 .8 .8]"
 $phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 20
+$rimmask 1
 }

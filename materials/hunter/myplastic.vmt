@@ -4,8 +4,8 @@ $basetexture hunter/myplastic
 $bumpmap hunter/myplastic_normal
 $surfaceprop tile
 $phong	1
+$phongboost 4
 $phongexponent 80
-$phongboost 1
 $phongfresnelranges "[.8 .9 1]"
 $phongtint "[.8 .8 .8]"
 $phongdisablehalflambert 1

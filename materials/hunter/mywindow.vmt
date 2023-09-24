@@ -5,8 +5,8 @@ $bumpmap hunter/mywindow_normal
 $surfaceprop tile
 $alphatest 1
 $phong	1
+$phongboost 4
 $phongexponent 80
-$phongboost 1
 $phongfresnelranges "[.8 .9 1]"
 $phongtint "[.8 .8 .8]"
 $phongdisablehalflambert 1

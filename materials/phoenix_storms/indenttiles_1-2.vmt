@@ -8,7 +8,7 @@ $envmaptint "[.349 .349 .349]"
 $envmapfresnel 1
 $model	1
 $phong	1
-$phongboost 2.56
+$phongboost 10.24
 $phongexponent 256
 $phongfresnelranges "[.349 .675 1]"
 $phongtint "[.349 .349 .349]"

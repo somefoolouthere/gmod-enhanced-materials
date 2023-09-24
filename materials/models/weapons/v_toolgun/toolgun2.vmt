@@ -6,9 +6,11 @@ $model	1
 $envmapmask models/weapons/v_toolgun/toolgun2_mask 
 $envmap env_cubemap
 $envmaptint "[.3 .3 .3]"
+$envmapfresnel 1
 $phong	1
-$phongboost 1
-$phongfresnelranges "[1 1 1]"
-$phongexponent	90
+$phongboost 10.24
+$phongexponent 256
+$phongfresnelranges "[.3 .65 1]"
+$phongtint "[.3 .3 .3]"
 $phongdisablehalflambert 1
 }

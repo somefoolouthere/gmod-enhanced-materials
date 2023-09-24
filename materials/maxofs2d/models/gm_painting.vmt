@@ -12,4 +12,5 @@ $phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 15
+$rimmask 1
 }

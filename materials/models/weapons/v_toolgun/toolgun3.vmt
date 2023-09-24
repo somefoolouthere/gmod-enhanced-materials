@@ -7,7 +7,7 @@ $envmapmask models/weapons/v_toolgun/toolgun3_mask
 $envmap env_cubemap
 $envmaptint "[.12 .12 .12]"
 $phong 1
-$phongboost 1
+$phongboost 4
 $phongfresnelranges "[.1 .9 1]"
 $phongexponenttexture models/weapons/v_toolgun/toolgun3_exp
 $phongdisablehalflambert 1
