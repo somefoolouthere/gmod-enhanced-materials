@@ -1,18 +1,15 @@
 LightmappedGeneric
 {
 $basetexture plaster/plasterwall017a
+$bumpmap	concrete/concretefloor025a_normal
 $surfaceprop plaster
 $detail detail/plaster_detail_01
 $detailscale 6.783
 $detailblendfactor .3
 $detailblendmode 0
 %keywords c17downtown
-LightmappedGeneric_DX9
-{
-$bumpmap concrete/concretefloor025a_normal
 $phong	1
 $phongexponent 4
-$phongamount "[.04 .04 .04 1]"
+$phongamount "[.16 .16 .16 1]"
 $phongmaskcontrastbrightness "[0 0]"
-}
 }
