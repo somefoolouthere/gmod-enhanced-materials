@@ -7,11 +7,4 @@ $basealphaenvmapmask 1
 $envmaptint "[.6 .6 .6]"
 $envmapfresnel 1
 $model 1
-$phong	1
-$phongboost 10.24
-$phongexponent 256
-$phongfresnelranges "[.6 .8 1]"
-$phongtint "[.6 .6 .6]"
-$phongdisablehalflambert 1
-$basemapalphaphongmask 1
 }
