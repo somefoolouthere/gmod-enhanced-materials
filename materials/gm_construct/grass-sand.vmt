@@ -4,13 +4,14 @@ $basetexture gm_construct/grass1
 $basetexture2 nature/sandfloor009b
 $surfaceprop grass
 $surfaceprop2 sand
+$nocull 1
 $detail gm_construct/grass_clouds
 $detailscale .125
 $phong	1
-$phongexponent 2
-$phongexponent2 4
-$phongamount "[.02 .02 .02 1]"
-$phongamount2 "[.04 .04 .04 1]"
-$phongmaskcontrastbrightness "[.1 0]"
-$phongmaskcontrastbrightness2 "[.1 0]"
+$phongexponent 5
+$phongexponent2 5
+$phongamount "[.2 .2 .2 1]"
+$phongamount2 "[.2 .2 .2 1]"
+$phongmaskcontrastbrightness "[1 0]"
+$phongmaskcontrastbrightness2 "[.8 0]"
 }
