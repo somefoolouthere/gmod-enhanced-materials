@@ -10,7 +10,7 @@ $detail detail/noise_detail_01
 $detailscale 18
 $detailblendfactor .6
 $detailblendmode 0
-%keywords gm_construct
+%keywords gm_construct,floor,interior,exterior
 $phong	1
 $phongexponent 1
 $phongamount "[.04 .04 .04 1]"

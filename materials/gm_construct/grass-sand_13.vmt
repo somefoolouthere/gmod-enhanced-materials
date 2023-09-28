@@ -5,6 +5,7 @@ $basetexture2 gm_construct/construct_sand
 $basetexturetransform2 "center .5 .5 scale 1.2 1.2 rotate 30 translate 0 0"
 $surfaceprop grass
 $surfaceprop2 sand
+%keywords nature,ground
 $nocull 1
 $detail gm_construct/grass_clouds
 $detailblendfactor .5

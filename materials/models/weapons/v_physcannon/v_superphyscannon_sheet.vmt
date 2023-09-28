@@ -1,21 +1,21 @@
 VertexLitGeneric
 {
-$baseTexture Models/Weapons/V_physcannon/v_superphyscannon_sheet
-$detail Models/Weapons/V_physcannon/v_superphyscannon_detail
+$baseTexture models/weapons/v_physcannon/v_superphyscannon_sheet
+$bumpmap	models/weapons/v_physcannon/v_superphyscannon_normal
+$detail models/weapons/v_physcannon/v_superphyscannon_detail
 $detailscale 1
 $detailblendfactor 1
 $detailblendmode 0
-$bumpmap models/weapons/v_physcannon/v_superphyscannon_normal
 $phong	1
 $phongtint "[.3 .3 .3]"
-$phongboost 1
+$phongboost 4
 $phongexponent 30
 $phongfresnelranges "[.3 .65 1]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 3.33
 $selfillum 1
-$phongdisablehalflambert 1
 Proxies
 {
 PlayerWeaponColor

@@ -4,6 +4,7 @@ $basetexture gm_construct/grass1
 $basetexture2 nature/sandfloor009b
 $surfaceprop grass
 $surfaceprop2 sand
+%keywords nature,ground
 $nocull 1
 $detail gm_construct/grass_clouds
 $detailscale .125
