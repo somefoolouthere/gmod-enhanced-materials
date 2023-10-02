@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/pack2/train_floor
-$bumpmap phoenix_storms/pack2/train_floor_bump
+$bumpmap	phoenix_storms/pack2/train_floor_bump
 $surfaceprop metal
 $envmap env_cubemap
 $envmaptint "[.5 .5 .5]"
@@ -9,7 +9,7 @@ $envmapfresnel 1
 $selfillum .5
 $model	1
 $phong	1
-$phongboost 2.56
+$phongboost 10.24
 $phongexponent 256
 $phongfresnelranges "[.5 .75 1]"
 $phongtint "[.5 .5 .5]"
