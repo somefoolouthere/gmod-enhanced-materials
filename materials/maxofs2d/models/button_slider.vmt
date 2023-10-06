@@ -1,16 +1,16 @@
 VertexLitGeneric
 {
-$baseTexture MaxOfS2D/models/button_slider
-$bumpmap MaxOfS2D/models/button_slider_normal
+$basetexture maxofs2d/models/button_slider
+$bumpmap maxofs2d/models/button_slider_normal
 $blendtintbybasealpha 1
 $blendtintcoloroverbase 0
 $phong	1
-$phongexponent 10
-$phongboost 1
-$phongfresnelranges "[.4 .7 1]"
+$phongexponent 20
+$phongboost 4
+$phongfresnelranges "[.2 .6 1]"
+$phongtint "[.2 .2 .2]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 10
-$phongtint "[.4 .4 .4]"
-$phongdisablehalflambert 1
+$rimlightexponent 5
 }

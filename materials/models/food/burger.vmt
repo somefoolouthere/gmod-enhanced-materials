@@ -1,17 +1,15 @@
 VertexLitGeneric
 {
 $basetexture models/food/burger
-$bumpmap models/food/burger_normal
-$envmap env_cubemap
-$envmaptint "[.01 .01 .01]"
+$bumpmap	models/food/burger_normal
 $normalmapalphaenvmapmask 1
 $phong	1
-$phongexponent 2
-$phongboost 1
-$phongfresnelranges "[.5 .75 1]"
+$phongboost 4
+$phongexponent 20
+$phongfresnelranges "[.2 .6 1]"
+$phongtint "[.2 .2 .2]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 2
-$phongtint "[.5 .5 .5]"
-$phongdisablehalflambert 1
+$rimlightexponent 5
 }

@@ -2,15 +2,15 @@ VertexLitGeneric
 {
 $basetexture models/lamps/torch
 $bumpmap	models/lamps/torch_normal
+$envmap env_cubemap
+$envmaptint "[.3 .3 .3]"
+$envmapfresnel 1
 $phong	1
-$phongexponent 10
-$phongboost 1
-$phongfresnelranges "[.5 .75 1]"
-$phongtint "[.5 .5 .5]"
+$phongboost 10.24
+$phongexponent 256
+$phongfresnelranges "[.3 .65 1]"
+$phongtint "[.3 .3 .3]"
 $phongdisablehalflambert 1
-$rimlight 1
-$rimlightboost 1
-$rimlightexponent 10
 $blendtintbybasealpha 1
 $blendtintcoloroverbase 0
 }

@@ -6,5 +6,4 @@ $translucent 1
 $surfaceprop glass
 $envmap env_cubemap
 $model	1
-$halflambert 1
 }

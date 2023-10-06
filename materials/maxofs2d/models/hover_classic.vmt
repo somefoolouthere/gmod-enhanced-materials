@@ -4,12 +4,12 @@ $basetexture maxofs2d/models/hover_classic
 $bumpmap	maxofs2d/models/hover_classic_normal
 $blendtintbybasealpha 1
 $phong	1
-$phongexponent 6
-$phongboost 1
-$phongfresnelranges "[.6 .8 1]"
-$phongtint "[.6 .6 .6]"
+$phongboost 4
+$phongexponent 20
+$phongfresnelranges "[.2 .6 1]"
+$phongtint "[.2 .2 .2]"
 $phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 6
+$rimlightexponent 5
 }

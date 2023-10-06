@@ -1,16 +1,16 @@
 VertexLitGeneric
 {
-$baseTexture maxofs2d/models/motion_sensor
-$bumpmap null-bumpmap
+$basetexture maxofs2d/models/motion_sensor
+$bumpmap	null-bumpmap
 $blendtintbybasealpha 1
 $blendtintcoloroverbase	0
 $envmap env_cubemap
 $envmaptint "[.5 .5 .5]"
 $envmapfresnel 1
 $phong	1
+$phongboost 10.24
 $phongexponent 256
-$phongboost 2.56
-$phongfresnelranges	"[.3 .65 1]"
+$phongfresnelranges	"[.5 .75 1]"
 $phongtint "[.5 .5 .5]"
 $phongdisablehalflambert 1
 }

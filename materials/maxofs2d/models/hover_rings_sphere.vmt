@@ -2,13 +2,11 @@ VertexLitGeneric
 {
 $baseTexture maxofs2d/models/hover_rings
 $bumpmap	null-bumpmap
+$envmap env_cubemap
 $translucent 1
 $phong	1
-$phongexponent 20
-$phongboost 1
-$phongfresnelranges "[.4 .7 1]"
-$phongtint "[.4 .4 .4]"
-$rimlight 1
-$rimlightboost 1
-$rimlightexponent 20
+$phongboost 10.24
+$phongexponent 256
+$phongfresnelranges "[1 1 1]"
+$phongtint "[1 1 1]"
 }

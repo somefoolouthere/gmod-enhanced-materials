@@ -1,19 +1,19 @@
 VertexLitGeneric
 {
 $basetexture models/balloon/balloon_star
-$bumpmap models/balloon/balloon_star_normal
+$bumpmap	models/balloon/balloon_star_normal
 $envmap env_cubemap
-$envmaptint "[.8 .8 .8]"
+$envmaptint "[.3 .3 .3]"
 $envmapfresnel 1
 $normalmapalphaenvmapmask 1
 $phong	1
-$phongexponent 5
-$phongboost 1
+$phongboost 4
+$phongexponent 30
 $phongexponenttexture models/balloon/balloon_star
-$phongfresnelranges "[.4 .7 1]"
+$phongfresnelranges "[.3 .65 1]"
+$phongtint "[.3 .3 .3]"
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 5
+$rimlightexponent 3.33
 $rimlightmask 1
-$phongtint "[.4 .4 .4]"
 }
