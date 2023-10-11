@@ -7,6 +7,7 @@ $surfaceprop grass
 $surfaceprop2 sand
 %keywords nature,ground
 $nocull 1
+$blendmodulatetexture gm_construct/grass_blendmask
 $detail gm_construct/grass_clouds
 $detailblendfactor .5
 $detailscale .12
