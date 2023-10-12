@@ -1,0 +1,18 @@
+WorldVertexTransition
+{
+$basetexture gm_construct/grass1
+$basetexture2 gm_construct/grass2
+$surfaceprop grass
+$surfaceprop2 grass
+$detail gm_construct/grass_clouds
+$detailscale .12
+$detailblendfactor .5
+$nocull 1
+$phong	1
+$phongexponent 5
+$phongexponent2 5
+$phongamount "[.2 .2 .2 1]"
+$phongamount2 "[.2 .2 .2 1]"
+$phongmaskcontrastbrightness "[1 0]"
+$phongmaskcontrastbrightness2 "[1 0]"
+}

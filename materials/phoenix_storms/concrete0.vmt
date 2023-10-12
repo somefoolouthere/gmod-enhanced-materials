@@ -1,11 +1,11 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/concrete0
-$bumpmap phoenix_storms/concrete_bump
+$bumpmap	phoenix_storms/concrete_bump
 $surfaceprop concrete
 $model	1
 $phong	1
-$phongboost 1
+$phongboost 4
 $phongexponent 1
 $phongfresnelranges "[.01 .505 1]"
 $phongtint "[.01 .01 .01]"

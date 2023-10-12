@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/black_chrome
-$bumpmap null-bumpmap
+$bumpmap	null-bumpmap
 $surfaceprop rubber
 $envmap	env_cubemap
 $envmaptint "[.3 .3 .3]"
