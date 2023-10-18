@@ -9,6 +9,7 @@ $selfillumtint "[.5 .5 .5]"
 $envmap env_cubemap
 $envmaptint "[.3 .3 .3]"
 $envmapfresnel 1
+$normalmapalphaenvmapmask 1
 $phong	1
 $phongboost 10.24
 $phongexponent 256
