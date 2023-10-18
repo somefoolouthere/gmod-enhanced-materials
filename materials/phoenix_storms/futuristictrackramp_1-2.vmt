@@ -3,6 +3,7 @@ VertexLitGeneric
 $basetexture phoenix_storms/futuristictrackramp_1-2
 $bumpmap	phoenix_storms/futuristictrackramp_bump
 $surfaceprop metal
+$alphatest 1
 $phong	1
 $phongboost 4
 $phongexponent 100

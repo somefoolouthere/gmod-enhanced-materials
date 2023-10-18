@@ -6,6 +6,7 @@ $surfaceprop metal
 $envmap env_cubemap
 $envmaptint "[.25 .25 .25]"
 $envmapfresnel 1
+$nocull 1
 $model	1
 $phong	1
 $phongboost 10.24

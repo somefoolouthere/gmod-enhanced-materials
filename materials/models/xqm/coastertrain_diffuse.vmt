@@ -1,16 +1,16 @@
 VertexLitGeneric
 {
-$basetexture models/XQM/CoasterTrain_diffuse
+$basetexture models/xqm/coastertrain_diffuse
+$bumpmap	models/xqm/coastertrain_normal
 $surfaceprop metal
-$bumpmap models/XQM/CoasterTrain_normal
 $model 1
 $phong 1
+$phongboost 4
 $phongexponent 40
-$phongboost 1
-$phongfresnelranges "[.6 .8 1]"
+$phongfresnelranges "[.4 .7 1]"
+$phongtint "[.4 .4 .4]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 40
-$phongtint "[.6 .6 .6]"
-$phongdisablehalflambert 1
+$rimlightexponent 2.5
 }

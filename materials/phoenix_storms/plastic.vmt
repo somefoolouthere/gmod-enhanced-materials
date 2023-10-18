@@ -4,8 +4,8 @@ $basetexture phoenix_storms/plastic
 $bumpmap	phoenix_storms/plastic_bump
 $surfaceprop plastic
 $phong	1
+$phongboost 4
 $phongexponent 100
-$phongboost 1
 $phongfresnelranges "[1 1 1]"
 $phongtint "[1 1 1]"
 $phongdisablehalflambert 1

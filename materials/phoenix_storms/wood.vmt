@@ -1,17 +1,16 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/wood
+$bumpmap	phoenix_storms/wood_bump
 $surfaceprop metal
-$bumpmap phoenix_storms/wood_bump
-$envmap env_cubemap
-$normalmapalphaenvmapmask 1
-$envmaptint "[.2 .2 .2]"
-$envmapfresnel 1
 $model	1
 $phong	1
-$phongboost 2.56
-$phongexponent 256
-$phongfresnelranges "[.2 .6 1]"
-$phongtint "[.2 .2 .2]"
+$phongboost 4
+$phongexponent 4
+$phongfresnelranges "[.04 .52 1]"
+$phongtint "[.04 .04 .04]"
 $phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 25
 }

@@ -8,12 +8,12 @@ $envmaptint "[.05 .05 .05]"
 $normalmapalphaenvmapmask 1
 $model	1
 $phong	1
-$phongexponent 20
-$phongboost 1
-$phongfresnelranges "[1 1 1]"
-$phongtint "[1 1 1]"
+$phongboost 4
+$phongexponent 50
+$phongfresnelranges "[.5 .75 1]"
+$phongtint "[.5 .5 .5]"
 $phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 20
+$rimlightexponent 2
 }

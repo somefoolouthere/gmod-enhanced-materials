@@ -3,6 +3,7 @@ VertexLitGeneric
 $basetexture phoenix_storms/future_vents_noalpha
 $bumpmap	phoenix_storms/future_vents_bump
 $surfaceprop metal
+$alphatest 1
 $phong	1
 $phongboost	4
 $phongexponent	100

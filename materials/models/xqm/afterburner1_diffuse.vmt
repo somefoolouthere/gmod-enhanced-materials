@@ -1,17 +1,17 @@
 VertexLitGeneric
 {
 $basetexture models/xqm/afterburner1_diffuse
-$bumpmap models/xqm/afterburner1_normal
+$bumpmap	models/xqm/afterburner1_normal
 $surfaceprop metal
 $nocull 1
 $model	1
 $phong	1
-$phongexponent 40
-$phongboost 1
+$phongboost 4
+$phongexponent 60
 $phongfresnelranges "[.6 .8 1]"
 $phongtint "[.6 .6 .6]"
 $phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 40
+$rimlightexponent 1.67
 }
