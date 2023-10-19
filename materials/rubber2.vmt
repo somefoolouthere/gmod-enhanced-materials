@@ -4,12 +4,12 @@ $baseTexture rubber2
 $bumpmap	rubber_bump
 $surfaceprop rubbertire
 $phong	1
-$phongexponent 150
-$phongboost	1
-$phongfresnelranges "[.5 .75 1]"
-$phongtint "[.5 .5 .5]"
+$phongboost 4
+$phongexponent 4
+$phongfresnelranges "[.04 .52 1]"
+$phongtint "[.04 .04 .04]"
 $phongdisablehalflambert 1
-$rimlight	1
+$rimlight 1
 $rimlightboost 1
-$rimlightexponent 150
+$rimlightexponent 25
 }

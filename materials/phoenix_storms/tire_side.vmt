@@ -1,15 +1,16 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/tire_side
+$bumpmap	null-bumpmap
 $surfaceprop metal
-$envmap env_cubemap
-$envmaptint "[.2 .2 .2]"
-$envmapfresnel 1
-$model 1
-$bumpmap null-bumpmap
-$phong 1
-$phongboost .2
-$phongexponent 256
+$model	1
+$phong	1
+$phongboost 4
+$phongexponent 20
 $phongfresnelranges "[.2 .6 1]"
+$phongtint "[.2 .2 .2]"
 $phongdisablehalflambert 1
+$rimlight 1
+$rimlightboost 1
+$rimlightexponent 5
 }

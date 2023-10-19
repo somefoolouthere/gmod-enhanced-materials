@@ -3,6 +3,8 @@ VertexLitGeneric
 $basetexture phoenix_storms/cannon
 $bumpmap phoenix_storms/cannon_bump
 $surfaceprop metal
+$alphatest 1
+$alphatestreference .001
 $envmap env_cubemap
 $envmaptint "[.2 .2 .2]"
 $envmapfresnel 1

@@ -1,15 +1,16 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/metalbox
+$bumpmap	phoenix_storms/metalbox_bump
 $surfaceprop metal
-$bumpmap phoenix_storms/metalbox_bump
+$alphatest 1
 $envmap env_cubemap
 $normalmapalphaenvmapmask 1
 $envmaptint "[.7 .7 .7]"
 $envmapfresnel 1
 $model	1
 $phong	1
-$phongboost 2.56
+$phongboost 10.24
 $phongexponent 256
 $phongfresnelranges "[.7 .85 1]"
 $phongtint "[.7 .7 .7]"

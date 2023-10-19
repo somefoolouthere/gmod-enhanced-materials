@@ -2,10 +2,11 @@ VertexLitGeneric
 {
 $basetexture phoenix_storms/metalfence004a
 $bumpmap	null-bumpmap
-$alphatest 1
 %compilepassbullets 1
 $surfaceprop chainlink
 %compileladder 1
+$alphatest 1
+$allowalphatocoverage 1
 $phong	1
 $phongboost 1
 $phongexponent 10

@@ -1,9 +1,8 @@
 VertexLitGeneric
 {
-$basetexture phoenix_storms/MetalSet_1-2
-$bumpmap	phoenix_storms/MetalSet_bump
+$basetexture phoenix_storms/metalset_1-2
+$bumpmap	phoenix_storms/metalset_bump
 $surfaceprop metal
-$alphatest 1
 $phong	1
 $phongboost 4
 $phongexponent 60
