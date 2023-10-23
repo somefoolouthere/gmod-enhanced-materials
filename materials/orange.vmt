@@ -1,15 +1,14 @@
 VertexLitGeneric
 {
-$baseTexture metal3
-$bumpmap metal3_bump
+$basetexture metal3
+$bumpmap	metal3_bump
 $surfaceprop solidmetal
 $phong	1
-$phongexponent 200
-$phongboost 1
+$phongboost 4
+$phongexponent 100
 $phongfresnelranges "[1 1 1]"
-$phongtint "[1 1 1]"
 $phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 200
+$rimlightexponent 1
 }

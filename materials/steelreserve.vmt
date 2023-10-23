@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
-$baseTexture steelreserve
-$bumpmap null-bumpmap
+$basetexture steelreserve
+$bumpmap	null-bumpmap
 $surfaceprop metalcan
 $envmap env_cubemap
 $envmaptint "[.3 .3 .3]"
