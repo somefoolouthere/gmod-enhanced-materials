@@ -5,15 +5,15 @@ $basetexture models/weapons/v_toolgun/screen_bg
 $bumpmap	null-bumpmap
 $selfillum 1
 $selfillummask color/white
-$selfillumtint "[.5 .5 .5]"
+$selfillumtint "[.4 .4 .4]"
 $envmap env_cubemap
-$envmaptint "[.3 .3 .3]"
+$envmaptint "[.4 .4 .4]"
 $envmapfresnel 1
 $normalmapalphaenvmapmask 1
 $phong	1
 $phongboost 10.24
 $phongexponent 256
-$phongfresnelranges "[.3 .65 1]"
-$phongtint "[.3 .3 .3]"
+$phongfresnelranges "[.4 .7 1]"
+$phongtint "[.4 .4 .4]"
 $phongdisablehalflambert 1
 }
