@@ -1,6 +1,6 @@
 VertexLitGeneric
 {
-$basetexture models/Alyx/alyx_faceandhair
+$basetexture models/alyx/alyx_faceandhair
 $bumpmap models/alyx/alyx_head_normal
 $nodecal 1
 $phongexponenttexture models/humans/facemap_phong

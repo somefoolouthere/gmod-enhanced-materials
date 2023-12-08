@@ -4,12 +4,12 @@ $basetexture models/combine_helicopter/helicopter_bomb_off01
 $bumpmap	models/combine_helicopter/helicopter_bomb01_normal
 $surfaceprop metal
 $phong	1
-$phongboost 1
-$phongexponent 7
-$phongfresnelranges	"[.6 .8 1]"
-$phongtint "[.6 .6 .6]"
+$phongboost 4
+$phongexponent 20
+$phongfresnelranges	"[.2 .6 1]"
+$phongtint "[.2 .2 .2]"
 $phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 7
+$rimlightexponent 5
 }

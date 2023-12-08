@@ -1,17 +1,16 @@
 VertexLitGeneric
 {
-$basetexture models\weapons\w_spade\w_spade
-$bumpmap models\weapons\w_spade\w_spade_normal
-$envmap env_cubemap
-$normalmapalphaenvmapmask 1
+$basetexture models/weapons/w_spade/w_spade
+$bumpmap models/weapons/w_spade/w_spade_normal
+$alphatest 1
+$alphatestreference .001
 $phong	1
-$phongexponent 2
-$phongboost 1
-$phongfresnelranges "[.4 .7 1]"
+$phongboost 4
+$phongexponent 10
+$phongfresnelranges "[.1 .55 1]"
+$phongtint "[.1 .1 .1]"
+$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 2
-$phongtint "[.4 .4 .4]"
-$envmaptint "[.1 .1 .1]"
-$phongdisablehalflambert 1
+$rimlightexponent 10
 }

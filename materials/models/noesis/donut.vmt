@@ -4,12 +4,12 @@ $basetexture models/noesis/donut
 $bumpmap null-bumpmap
 $surfaceprop tile
 $phong 1
-$phongboost 1
-$phongexponent 8
+$phongboost 4
+$phongexponent 20
 $phongfresnelranges "[.2 .6 1]"
 $phongtint "[.2 .2 .2]"
 $phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 8
+$rimlightexponent 5
 }

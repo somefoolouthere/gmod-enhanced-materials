@@ -1,9 +1,9 @@
 VertexLitGeneric
 {
-$baseTexture models/tnt/tnt
+$basetexture models/tnt/tnt
 $bumpmap null-bumpmap
 $phong	1
-$phongboost 1
+$phongboost 4
 $phongexponent 1
 $phongfresnelranges "[.01 .505 1]"
 $phongtint "[.01 .01 .01]"

@@ -1,6 +1,6 @@
 VertexLitGeneric
 {
-$baseTexture models/weapons/v_physcannon/v_superphyscannon_sheet
+$basetexture models/weapons/v_physcannon/v_superphyscannon_sheet
 $bumpmap	models/weapons/v_physcannon/v_superphyscannon_normal
 $detail models/weapons/v_physcannon/v_superphyscannon_detail
 $detailscale 1

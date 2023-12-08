@@ -4,7 +4,7 @@ $basetexture models/onfire
 $bumpmap null-bumpmap
 $selfillum 1
 $model	1
-$phongboost 1
+$phongboost 4
 $phongexponent 1
 $phongfresnelranges "[.01 .505 1]"
 $phongtint "[.01 .01 .01]"

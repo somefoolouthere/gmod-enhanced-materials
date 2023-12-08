@@ -5,12 +5,12 @@ $bumpmap	models/nateswheel/nateswheel_normal
 $surfaceprop rubbertire
 $model	1
 $phong	1
-$phongboost 1
-$phongexponent 40
-$phongfresnelranges "[.5 .75 1]"
-$phongtint "[.5 .5 .5]"
+$phongboost 4
+$phongexponent 10
+$phongfresnelranges "[.1 .55 1]"
+$phongtint "[.1 .1 .1]"
 $phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 40
+$rimlightexponent 10
 }
