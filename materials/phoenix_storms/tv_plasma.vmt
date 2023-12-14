@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
 $basetexture phoenix_storms/tv_plasma
-$bumpmap null-bumpmap
+$bumpmap	null-bumpmap
 $surfaceprop metal
 $envmap env_cubemap
 $envmaptint "[.2 .2 .2]"

@@ -3,6 +3,8 @@ VertexLitGeneric
 $model 1
 $basetexture models/weapons/v_toolgun/screen_bg
 $bumpmap	null-bumpmap
+$alphatest 1
+$alphatestreference .001
 $selfillum 1
 $selfillummask color/white
 $selfillumtint "[.4 .4 .4]"
