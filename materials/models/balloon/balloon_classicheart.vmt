@@ -1,7 +1,7 @@
-VertexlitGeneric
+VertexLitGeneric
 {
 $basetexture color/white
-$bumpmap null-bumpmap
+$bumpmap	null-bumpmap
 $envmap env_cubemap
 $envmaptint "[.2 .2 .2]"
 $envmapfresnel 1
@@ -10,5 +10,4 @@ $phongboost 10.24
 $phongexponent 256
 $phongfresnelranges "[.2 .6 1]"
 $phongtint "[.2 .2 .2]"
-$phongdisablehalflambert 1
 }

@@ -1,8 +1,8 @@
 VertexLitGeneric
 {
 $basetexture models/magnusson/magnusson_face
-$surfaceprop default
 $bumpmap	models/magnusson/magnusson_face_normal
+$surfaceprop default
 $model	1
 $phong	1
 $phongboost 1
@@ -14,5 +14,4 @@ $rimlight 1
 $rimlightboost 1
 $rimlightexponent 10
 $rimmask 1
-$phongdisablehalflambert 1
 }

@@ -1,11 +1,10 @@
 VertexLitGeneric
 {
 $basetexture models/alyx/alyx_faceandhair
-$bumpmap models/alyx/alyx_head_normal
+$bumpmap	models/alyx/alyx_head_normal
 $nodecal 1
 $phongexponenttexture models/humans/facemap_phong
 $phongtint "[.8 .8 .8]"
-$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 4

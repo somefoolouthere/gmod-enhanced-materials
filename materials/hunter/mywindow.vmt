@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
 $basetexture hunter/mywindow
-$bumpmap hunter/mywindow_normal
+$bumpmap	hunter/mywindow_normal
 $surfaceprop tile
 $alphatest 1
 $phong	1
@@ -12,5 +12,5 @@ $phongtint "[.8 .8 .8]"
 $phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 1.25
+$rimlightexponent 80
 }

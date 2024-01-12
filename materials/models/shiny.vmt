@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
 $basetexture models/debug/debugwhite
-$bumpmap null-bumpmap
+$bumpmap	null-bumpmap
 $surfaceprop metal
 $envmap env_cubemap
 $envmaptint "[.5 .5 .5]"

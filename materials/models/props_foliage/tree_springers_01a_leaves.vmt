@@ -1,7 +1,7 @@
 VertexlitGeneric
 {
 $basetexture models/props_foliage/tree_springers_01a_leaves
-$bumpmap null-bumpmap
+$bumpmap	null-bumpmap
 $alphatest 1
 $model	1
 $nocull 1
@@ -12,7 +12,6 @@ $phongboost 4
 $phongexponent 4
 $phongfresnelranges "[.04 .52 1]"
 $phongtint "[.04 .04 .04]"
-$phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
 $rimlightexponent 25

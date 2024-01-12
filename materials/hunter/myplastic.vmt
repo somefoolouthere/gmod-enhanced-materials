@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
 $basetexture hunter/myplastic
-$bumpmap hunter/myplastic_normal
+$bumpmap	hunter/myplastic_normal
 $surfaceprop tile
 $phong	1
 $phongboost 4
@@ -11,5 +11,5 @@ $phongtint "[.8 .8 .8]"
 $phongdisablehalflambert 1
 $rimlight 1
 $rimlightboost 1
-$rimlightexponent 1.25
+$rimlightexponent 80
 }
