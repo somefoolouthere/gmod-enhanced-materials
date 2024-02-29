@@ -10,7 +10,7 @@ $fallbackmaterial nature/water_dx70_beneath
 }
 $abovewater 0
 %compilewater 1
-$forceexpensive 0
+$forceexpensive 1
 $reflectentities 0
 %tooltexture gm_construct/water_13_normal
 $refracttexture _rt_WaterRefraction
