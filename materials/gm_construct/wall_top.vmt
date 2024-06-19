@@ -3,11 +3,11 @@ LightmappedGeneric
 $basetexture plaster/plasterwall017a
 $bumpmap	concrete/concretefloor025a_normal
 $surfaceprop plaster
+%keywords c17downtown
 $detail detail/plaster_detail_01
 $detailscale 6.783
 $detailblendfactor .3
 $detailblendmode 0
-%keywords c17downtown
 $phong	1
 $phongexponent 4
 $phongamount "[.16 .16 .16 1]"

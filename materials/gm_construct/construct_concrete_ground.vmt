@@ -1,15 +1,15 @@
 LightmappedGeneric
 {
 $basetexture gm_construct/construct_concrete_ground
-$bumpmap gm_construct/construct_concrete_ground_normal
+$bumpmap	gm_construct/construct_concrete_ground_normal
 $basetexturetransform "center .5 .5 scale 1.25 1.25 rotate 0 translate 0 0"
 $bumptransform "center .5 .5 scale 1.25 1.25 rotate 0 translate 0 0"
 $surfaceprop concrete
+%keywords gm_construct,floor,interior,exterior
 $detail detail/noise_detail_01
 $detailscale 18
 $detailblendfactor .6
 $detailblendmode 0
-%keywords gm_construct,floor,interior,exterior
 $phong 1
 $phongexponent 1
 $phongamount "[.04 .04 .04 1]"

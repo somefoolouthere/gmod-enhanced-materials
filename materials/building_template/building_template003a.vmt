@@ -1,7 +1,7 @@
 LightmappedGeneric
 {
 $basetexture building_template/building_template003a
-$bumpmap building_template/building_template003a_normal
+$bumpmap	building_template/building_template003a_normal
 $surfaceprop concrete
 %keywords wall,exterior
 $detail detail/noise_detail_01
